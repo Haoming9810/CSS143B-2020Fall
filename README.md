@@ -2,10 +2,10 @@
 
 ## How to Clone This Repo To Your Machine
 
-On the [class repo page](https://github.com/pdgetrf/CSS143B), click the green "Clone or download" button. You can either git clone the repo or download a zip file. Here is an example on linux/mac:
+On the [class repo page](https://github.com/pdgetrf/CSS143B-2020Fall), click the green "Clone or download" button. You can either git clone the repo or download a zip file. Here is an example on linux/mac:
 
 ```console
-pdu:~$ git clone https://github.com/pdgetrf/CSS143B.git
+pdu:~$ git clone https://github.com/pdgetrf/CSS143B-2020Fall.git
 ```
 And there's a [tutorial](https://help.github.com/en/articles/cloning-a-repository) on how to clone a github repo on **ALL PLATFORMS**. We will use git a lot in this course. 
 
@@ -17,8 +17,8 @@ Transition from basic programming skills to a rigorous process of software devel
 | Date & Time | MW 5:45pm - 7:45pm |
 | Lecturer     | Dr. [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
 | Email        | pengdu@uw.edu ([CSS143] MUST show on subject) |
-| Lecture Location | UW1([map](https://www.google.com/maps/place/UW1,+Campus+Way+NE,+Bothell,+WA+98011/@47.7589141,-122.1927826,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e656ea5e705:0x76bf30aa903fd5d4!8m2!3d47.7589141!4d-122.1905939)) 051   |
-| Office hours | 1 hr after MW class in UW1 051 |
+| Lecture Location | Online   |
+| Office hours | TBD |
 
 ## Prerequisites
 Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143. 
