@@ -25,13 +25,13 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 
 ## Course Objectives
 The objectives of this course are for students to: 
-- Transition from basic programming skills to a rigorous process of software development
-- Becoming familiar with higher-level programming techniques (object‐orientation, recursion, inheritance, generic programming), constructs (lists, stacks, queues, trees) and algorithms (searching, sorting)
+- Transition from basic programming skills to a rigorous process of software development including code performance and quality.
+- Becoming familiar with higher-level programming techniques (object‐orientation, recursion, inheritance, generic programming), constructs (lists, stacks, queues, trees) and algorithms (searching, sorting).
 
 ## Course Learning Outcomes
 Upon successful completion of the course, students shall be able to:
-- Be fluent with object-oriented programming using JAVA from concept to realization.
-- Analyze problems and design solutions with basic data structures, algorithms.
+- Be fluent with object-oriented programming using JAVA from concept to implementation.
+- Analyze problems and design solutions with basic data structures and algorithms.
 - Make trade-offs between solutions based on performance analysis in terms of time and space complexity.
 - Write well-structured and test-friendly codes.
 - Debug programs with the command line and IDE tools, and online community like www.stackoverflow.com.
@@ -83,23 +83,23 @@ Recommended: [Intellij Idea](https://www.jetbrains.com/idea/). This has a free c
 - The textbook: We'll be talking through examples, etc.
 
 ## Class Attendance
-- Class attendance is not mandatory. However, I strongly encourage you to come to class as there is generally a direct correlation between attendance and performance (aka, grade).
+- Class attendance is not mandatory. However, I strongly encourage you to come online to class as there is generally a direct correlation between attendance and performance (aka, grade).
 - Quizzes and exams will be given during class.
 - You will be held responsible for learning all material covered in class, regardless of its presence (or lack thereof) in the textbook or internet.
 
 ## Programming Assignments
 All programming assignments will be given at this repository, and submission shall be made to UW canvas unless specified otherwise. Late assignments will **NOT** be accepted unless there has been a previous agreement due to exceptional circumstances. 
 
-The program is graded upon the following aspects: 
+The homework code is graded upon the following aspects: 
 
 - Style / Syntax: i.e. following Coding Guidelines; Clarity 
-- Factoring / Design: i.e. Modularity; Interface Design 
+- Factoring / Design: i.e. modularity; Interface Design 
 - Correctness – determined through test cases and memory checker run against code 
 - Efficiency
 
-You can use any IDE or editor for coding and testing your laboratory and programming assignments. Regardless of what environment and version you use to develop your programs, for grading it will be compiled in a standard environment (to be announced in class).  If your program does not compile or does not run in the graded environments it will be deemed incorrect and receive zero points. This is true even if it works with other OSs or compilers. This means that *if you use a different development environment you should verify (compile and run test) your code to the prescribed environment before submitting it*. 
+You can use any IDE or editor for coding and testing your laboratory and programming assignments. Regardless of what environment and version you use to develop your programs, for grading it will be compiled in a standard environment (to be announced in class).  If your program does not compile or does not run in the graded environments it will be deemed incorrect and receive zero points. This applies even if it works with other OSs or compilers. This means that *if you use a different development environment you should verify (compile and run test) your code to the prescribed environment before submitting it*. 
 
-When multiple files are required for an assignment, they must be in a ZIP file. The ZIP file should contain source code (in ASCII Text) and results of the program (report as an MS Word or pdf document); never submit executables. Please check each homework specification about what you to write in your report. For grading correctness the files will be extracted from the ZIP file, the code will be compiled and tested by executing several test cases. 
+When multiple files are required for an assignment, follow the homework instruction. They would either be in a ZIP file or through github repositories. The submission should only contain source code (in ASCII Text) and results of the program (report as an MS Word or pdf document); never submit executables. Please check each homework specification about what you to write in your report. 
 
 ## Tentative Schedule
 The following table provides an approximate, high-level ordering of topics, not all sections in all chapters in the book are covered.  It is also a tentative schedule subject to change and will be announced on canvas, in class and/or through our discussion channels. Furthermore, the book topics listed below are provided as guidance. You are strongly encouraged to consult other sources for further references.
