@@ -106,17 +106,18 @@ The following table provides an approximate, high-level ordering of topics, not 
 
 |  Date | Week | Topics |
 | --- | --- | --- |
-|  1/6, 1/8 | 1 | Course intro <br/>Java programming basic |
-|  1/13, 1/15 | 2 | 1/13 Java class Intro<br/>1/15  Overloading, constructors, and encapsulation |
-|  1/20, 1/22 | 3 | 1/20 No lecture<br/>1/22 Abstract Data Type (ADT) |
-|  1/27, 1/29 | 4 | 1/27 Midterm & debugging and exception<br/>1/29 LinkedList ADT |
-|  2/3, 2/5 | 5 | 2/3 Stack and Queue ADT<br/>2/5 Recursion |
-|  2/10, 2/12 | 6 | 2/10 Binary (Search) Tree ADT and Binary Tree overall<br/>2/12 Special topic: A tale of two linkedlist reversals |
-|  2/17, 2/19 | 7 | 2/17 No lecture ([Presidents' day](https://www.washington.edu/students/reg/religcal.html#win20))<br/>2/19 Midterm |
-|  2/24, 2/26 | 8 | 2/24 Dictionary <br/>2/26 SortingAlgorithm & complexity analysis |
-|  3/2, 3/4 | 9 | 3/2 Compresive problem solving discussion<br/>3/4 Guest lecture |
-|  3/9, 3/11 | 10 | Buffer/Final review |
-|  3/14 - 3/20 | 11 | 3/16 Final exam |
+|  9/30 | 1 | Course intro<br/>Source control (git & github) |
+|  10/05, 10/07 | 2 | Java programming basics<br/>OOP concepts<br/>Maven |
+|  10/12, 10/14 | 3 | Test driven development<br/>Abstract data types: array, list |
+|  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue |
+|  10/26, 10/28 | 5 | Recursion (and backtracking) |
+|  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree |
+|  11/09, 11/11 | 7 | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |
+|  11/16, 11/18 | 8 | 11/16 Midterm 2<br/>Dictionary |
+|  11/23, 11/25 | 9 | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |
+|  11/30, 12/02 | 10 | Sorting & complexity analysis |
+|  12/07 - 12/09 | 11 | Buffer |
+|  12/14 - 12/16 | 12 | 3/16 Final exam |
 
 ## Policy
 All the materials are either in class or online. In-class only materials will be unavailable unless you attend class. The only exceptions are: you are terribly sick, family emergency, or academic event. In such cases, you should provide evidence (e.g., medical doctor’s note). 
