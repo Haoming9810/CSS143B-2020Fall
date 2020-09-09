@@ -114,7 +114,7 @@ The following table provides an approximate, high-level ordering of topics, not 
 |  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree |
 |  11/09, 11/11 | 7 | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |
 |  11/16, 11/18 | 8 | 11/16 Midterm 2<br/>Dictionary |
-|  11/23, 11/25 | 9 | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |
+|  11/23, 11/25 | 9 | Special topic: Tree ADT applications in database<br/>Guest lecture (Marvin: FPV drone programming) |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis |
 |  12/07 - 12/09 | 11 | Buffer |
 |  12/14 - 12/16 | 12 | 3/16 Final exam |
