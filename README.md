@@ -10,6 +10,7 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 | ---------------- | ------------------------------------------------------------ |
 | Date & Time      | MW 5:45pm - 7:45pm                                           |
 | Lecturer         | Dr. [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
+| Grader           | Jackie Kelly                                                 |
 | Email            | pengdu@uw.edu ([CSS143] MUST show on subject)                |
 | Lecture Location | Zoom                                                         |
 | Office hours     | Discord ([use this invite to join](https://discord.gg/tQy6tZg)) |
@@ -57,23 +58,44 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 - Savitch, Walter, Absolute Java, 6th Edition, Pearson, 2016, ISBN 0134041674.
 
 ## Lecture
-- Read the relevant textbook chapters before coming to class.
-- Slides are to provide outlines for the lecture, and they will be frequently updated even after the class. The main purpose of lecture slides is to give you the flow of the day's lecture.
-- It is highly recommended that you take notes rather than depend solely on the slides.
+- Read the relevant textbook chapters before each class.
+- Lecture video and slides will be made available after each class.
+- Slides are for reference only and is tentative to change even after lecture.
+- Take notes. Write down your questions in class.
 - There will be live coding and debugging by both the lecture and students.
+
+## Tentative Schedule
+
+- The following table provides an approximate, high-level ordering of topics, not all sections in the book are covered. 
+- Schedule is tentative and subject to change. Changes will be announced in class and/or Discrod channels.
+
+| Date          | Week | Topics                                                       | Chapters                                |
+| ------------- | ---- | ------------------------------------------------------------ | :-------------------------------------- |
+| 9/30          | 1    | Course intro<br/>Git and grading system<br/>Java basics + Test Driven Development Intro | 1.2<br/>3.1-3.3                         |
+| 10/05, 10/07  | 2    | Java programming basics<br/>Maven<br/>OOP concepts           | 4<br/>5.2, 5.3<br/>7, 8.1, 8.2<br/>13.1 |
+| 10/12, 10/14  | 3    | Test driven development<br/>Abstract data types: array, list | 6.1-6.3<br/>15.1                        |
+| 10/19, 10/21  | 4    | 10/19 Midterm 1<br/>ADTs: stack, queue                       | 15.4                                    |
+| 10/26, 10/28  | 5    | Recursion (and backtracking)                                 | 11                                      |
+| 11/02, 11/04  | 6    | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree | 15.7                                    |
+| 11/09, 11/11  | 7    | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day)    |                                         |
+| 11/16, 11/18  | 8    | 11/16 Midterm 2<br/>Dictionary                               | 15.5                                    |
+| 11/23, 11/25  | 9    | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |                                         |
+| 11/30, 12/02  | 10   | Sorting & complexity analysis                                |                                         |
+| 12/07 - 12/09 | 11   | Buffer & xam review                                          |                                         |
+| 12/14 - 12/16 | 12   | 3/16 Final exam                                              |                                         |
 
 ## Computer
 All students are expected to have unfettered access to a personal computer (Windows, Mac, Linux, etc.) or netbook with broadband-speed Internet access. Student access to University computing resources fulfills this requirement. All students are assumed to be proficient with an office productivity suite and email. All students must enable their Canvas Notifications for this course (Links to an external site.) to be at least as frequent as the defaults; if I post announcements, etc. via Canvas, you need to be able to receive them. All students must have a valid email account that they check on a daily basis.
 
 ## Operating System
-Since JAVA will be used for programming and it is cross-platform ("write once, run anywhere"), there's no specific requirement for what Operating System you can use for coding. 
+Since JAVA will be used for programming and it is cross-platform ("write once, run anywhere"), there's no specific requirement for what operating system you can use for coding. The instructor will be using MacOS and Linux.
 
 ## Dev Tools
 Recommended: [Intellij Idea](https://www.jetbrains.com/idea/). This has a free community version and also [free for students](https://www.jetbrains.com/student/). Feel free to use any other development environments too, it being Eclipse or even VIM. For homeworks only the source codes are of interests for grading.
 
 ## What to bring to lecture
-- A laptop or tablet: We'll do plenty of live coding on a computer during the lecture, and your device will be used for taking quizzes, exams, etc. 
-- A writing tool and paper: Most of the work we do with programming will be done by hand. This is because coding is not about typing things into a computer, but thinking about how to tell the computer what to do.
+- A laptop or tablet: We'll do live coding occasionally during the lecture. 
+- A writing tool and paper: Most of the practice in class will be done by hand.
 - The textbook: We'll be talking through examples, etc.
 
 ## Class Attendance
@@ -82,7 +104,11 @@ Recommended: [Intellij Idea](https://www.jetbrains.com/idea/). This has a free c
 - You will be held responsible for learning all material covered in class, regardless of its presence (or lack thereof) in the textbook or internet.
 
 ## Programming Assignments
-All programming assignments will be given at this repository, and submission shall be made to UW canvas unless specified otherwise. Late assignments will **NOT** be accepted unless there has been a previous agreement due to exceptional circumstances. 
+- All programming assignments will be given using Git repositories. This will be introduced in the first few lectures so we get all comfortable with it even witout any previous experience.
+- Submission will be using GitHub and/or Canvas depending on the types of homework. 
+- Late assignments will **NOT** be accepted unless there has been a previous agreement due to exceptional circumstances. 
+
+
 
 The homework code is graded upon the following aspects: 
 
@@ -91,27 +117,9 @@ The homework code is graded upon the following aspects:
 - Correctness – determined through test cases and memory checker run against code 
 - Efficiency
 
-You can use any IDE or editor for coding and testing your laboratory and programming assignments. Regardless of what environment and version you use to develop your programs, for grading it will be compiled in a standard environment (to be announced in class).  If your program does not compile or does not run in the graded environments it will be deemed incorrect and receive zero points. This applies even if it works with other OSs or compilers. This means that *if you use a different development environment you should verify (compile and run test) your code to the prescribed environment before submitting it*. 
+You can use any IDE or editor for coding and testing your laboratory and programming assignments. Submitted homework and exam code will be graded in a "standard" environment setup by the instructor and grader. It is your responsibility to make sure your code work correctly in this grading environment.  
 
-When multiple files are required for an assignment, follow the homework instruction. They would either be in a ZIP file or through github repositories. The submission should only contain source code (in ASCII Text) and results of the program (report as an MS Word or pdf document); never submit executables. Please check each homework specification about what you to write in your report. 
-
-## Tentative Schedule
-The following table provides an approximate, high-level ordering of topics, not all sections in all chapters in the book are covered.  It is also a tentative schedule subject to change and will be announced on canvas, in class and/or through our discussion channels. Furthermore, the book topics listed below are provided as guidance. You are strongly encouraged to consult other sources for further references.
-
-|  Date | Week | Topics |
-| --- | --- | --- |
-|  9/30 | 1 | Course intro<br/>Source control (git & github) |
-|  10/05, 10/07 | 2 | Java programming basics<br/>OOP concepts<br/>Maven |
-|  10/12, 10/14 | 3 | Test driven development<br/>Abstract data types: array, list |
-|  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue |
-|  10/26, 10/28 | 5 | Recursion (and backtracking) |
-|  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree |
-|  11/09, 11/11 | 7 | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |
-|  11/16, 11/18 | 8 | 11/16 Midterm 2<br/>Dictionary |
-|  11/23, 11/25 | 9 | Special topic: Tree ADT applications in database<br/>Guest lecture (Marvin: FPV drone programming) |
-|  11/30, 12/02 | 10 | Sorting & complexity analysis |
-|  12/07 - 12/09 | 11 | Buffer |
-|  12/14 - 12/16 | 12 | 3/16 Final exam |
+Homework submission instruction will be given when homework is assigned. 
 
 ## Policy
 All the materials are either in class or online. In-class only materials will be unavailable unless you attend class. The only exceptions are: you are terribly sick, family emergency, or academic event. In such cases, you should provide evidence (e.g., medical doctor’s note). 
