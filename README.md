@@ -9,7 +9,7 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 | Key Info         |                                                              |
 | ---------------- | ------------------------------------------------------------ |
 | Date & Time      | MW 5:45pm - 7:45pm                                           |
-| Lecturer         | Dr. [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
+| Lecturer         | [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
 | Grader           | Jackie Kelly                                                 |
 | Email            | pengdu@uw.edu ([CSS143] MUST show on subject)                |
 | Lecture Location | Zoom                                                         |
@@ -20,7 +20,7 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 The objectives of this course are for students to: 
 
 - Transition from basic programming skills to a rigorous software development. This includes:
-  - Purposeful algoriothm design
+  - Algoriothm design
   - Clean code
   - Test-driven development
   - Modern development tooling
