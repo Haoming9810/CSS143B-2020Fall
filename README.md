@@ -50,7 +50,7 @@ Upon successful completion of the course, students shall be able to:
 ### Grading Rubric
 All grades will be listed as percentages in the Canvas LMS. The conversion table below will help you determine your final grade. For example, if you earn 950 points (or 95%) you will get a 4.0. If you earn 750 points (or 75%) you will earn a 2.0.
 
-![Image of Grading Rubric](https://github.com/pdgetrf/CSS143B/blob/master/images/gradingrubric.png)
+![Image of Grading Rubric](https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/images/gradingrubric.png)
 
 ## Textbooks
 ### Required
