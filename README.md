@@ -28,7 +28,7 @@ The objectives of this course are for students to:
 ## Course Learning Outcomes
 Upon successful completion of the course, students shall be able to:
 - **Programming**: Fluent with object-oriented programming using JAVA
-- **Data structure**: Understand the concepts and implementation of various basic data structures such as array, list & tree
+- **Data structure**: Understand the concepts and implementation of various basic data structures such as array, list, tree
 - **Algorithm**: Understand basic algorithms such as searching, sorting, recursion
 - **Problem solving**: Make trade-offs between solutions based on performance analysis in terms of time and space complexity.
 - **Coding practice**: Write well-structured an well-tested codes  
