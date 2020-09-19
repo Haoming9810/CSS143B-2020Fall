@@ -60,8 +60,8 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 ## Lecture
 - Read the relevant textbook chapters before each class.
 - Lecture video and slides will be made available after each class.
-- Slides are for reference only and is tentative to change even after lecture.
-- Take notes. Write down your questions in class.
+- Slides are for reference only and tentative to change even after lecture.
+- Take notes. Write down your questions in class and follow up later.
 - There will be live coding and debugging by both the lecture and students.
 
 ## Tentative Schedule
