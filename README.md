@@ -1,50 +1,44 @@
 # CSS 143 Computer Programming II
 
-## How to Clone This Repo To Your Machine
-
-On the [class repo page](https://github.com/pdgetrf/CSS143B-2020Fall), click the green "Clone or download" button. You can either git clone the repo or download a zip file. Here is an example on linux/mac:
-
-```console
-pdu:~$ git clone https://github.com/pdgetrf/CSS143B-2020Fall.git
-```
-And there's a [tutorial](https://help.github.com/en/articles/cloning-a-repository) on how to clone a github repo on **ALL PLATFORMS**. We will use git a lot in this course. 
-
-## Course Info
-Transition from basic programming skills to a rigorous process of software development. Familiarization with higher-level programming techniques (recursion, generic programming, stacks, queues, trees, searching, and sorting). Emphasizes the connection between algorithmic thought and implementation. 
-
-| Key Info ||
-|------------|-----------------|
-| Date & Time | MW 5:45pm - 7:45pm |
-| Lecturer     | Dr. [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
-| Email        | pengdu@uw.edu ([CSS143] MUST show on subject) |
-| Lecture Location | Online   |
-| Office hours | TBD |
-
 ## Prerequisites
+
 Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143. 
 
+## Course Info
+
+| Key Info         |                                                              |
+| ---------------- | ------------------------------------------------------------ |
+| Date & Time      | MW 5:45pm - 7:45pm                                           |
+| Lecturer         | Dr. [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) |
+| Email            | pengdu@uw.edu ([CSS143] MUST show on subject)                |
+| Lecture Location | Zoom                                                         |
+| Office hours     | Discord ([use this invite to join](https://discord.gg/tQy6tZg)) |
+
 ## Course Objectives
+
 The objectives of this course are for students to: 
-- Transition from basic programming skills to a rigorous process of software development including code performance and quality.
+
+- Transition from basic programming skills to a rigorous software development. This includes:
+  - Purposeful algoriothm design
+  - Clean code
+  - Test-driven development
+  - Modern development tooling
 - Becoming familiar with higher-level programming techniques (object‐orientation, recursion, inheritance, generic programming), constructs (lists, stacks, queues, trees) and algorithms (searching, sorting).
 
 ## Course Learning Outcomes
 Upon successful completion of the course, students shall be able to:
-- Be fluent with object-oriented programming using JAVA from concept to implementation.
-- Analyze problems and design solutions with basic data structures and algorithms.
-- Make trade-offs between solutions based on performance analysis in terms of time and space complexity.
-- Write well-structured and test-friendly codes.
-- Debug programs with the command line and IDE tools, and online community like www.stackoverflow.com.
-- Work comfortably with source control and online repo such as Git and www.github.com.
+- **Programming**: Fluent with object-oriented programming using JAVA
+- **Data structure**: Understand the concepts and implementation of various basic data structures such as array, list & tree
+- **Algorithm**: Understand basic algorithms such as searching, sorting, recursion
+- **Problem solving**: Make trade-offs between solutions based on performance analysis in terms of time and space complexity.
+- **Coding practice**: Write well-structured an well-tested codes  
 
 ## Class Communication
-- Canvas Learning Management System (LMS) will be used for homework, quizzes, and exams.
-- Discord will be used for announcements, discussion forums, assignment posting, and individual grades.
-- For any direct/individual communication with your instructor please use email (please do not use Canvas messaging/mail).
-- For group discussion, please use Discord (invitation in canvas).
+- **Canvas** mainly for assigning tasks (homework, quizzes, and exams) and scores
+- **Discord** for announcements, discussion forums, assignment posting, and individual grades.
+- For any direct/individual communication with instructor please prioritieze in the order of ***Discord/Canvas/Email***
 
-## Grading
-### Coursework Distribution 
+### Coursework Distribution
 | Course Work | Grading % |
 |-------------|-----------|
 | Homeworks | 30        |
