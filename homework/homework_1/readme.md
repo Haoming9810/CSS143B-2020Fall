@@ -32,7 +32,7 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 
 ### Seed Code ###
 
-[github repo for all 3 problems](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
+[github repo for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
 
 ### Notes ###
 
