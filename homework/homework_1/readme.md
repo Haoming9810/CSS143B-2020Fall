@@ -16,8 +16,8 @@
 
 There are **THREE** problems to solve. Please find the description of the first 2 problem in their own page:
 
-- [Problem 1](https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/homework/homework_1/problem_1.md) (45pt)
-- [Problem 2](https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/homework/homework_1/problem_2.md) (45pt)
+- [Problem 1](problem_1.md) (45pt)
+- [Problem 2](problem_2.md) (45pt)
 
 - Problem 3 has 10 point as following: Send me a private message in Discord. Describe the following:
   - Your full name
