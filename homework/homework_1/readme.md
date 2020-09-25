@@ -36,7 +36,7 @@ There are **THREE** problems to solve. Please find the description of the first 
 
 Your code is as correct as what your tests show. Your code will be assumed to be not correct unless proven otherwise by your tests. No tests, no point. 
 
-### Seed Code ###
+### Code ###
 
 [github repo for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
 
