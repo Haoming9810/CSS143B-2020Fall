@@ -5,7 +5,7 @@
     - Assigned: 09/30/2020
     - Due: 10/09/2020 Thursday 11:59pm
 
-## Goal ##
+## Goals ##
 
 - Java programming basics
 - Write your own tests
