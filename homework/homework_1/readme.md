@@ -38,7 +38,16 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 
 ### Code ###
 
-[github repo for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
+[Github repo URL for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
+
+####  Recommended steps to setup the code for work ####
+
+- Fork the above repo (Click the top right "fork" button from the teacher's repo) on Github into your own.
+- In Intellij, clone your repo using the ["Get from Version Control"](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html) option with your repo URL.
+- Select "YES" when asked by Intellij whether you want to open it.
+- Happy coding
+
+A demo of this process can be found in the lecture recording of class 1.
 
 ### Notes ###
 
@@ -54,7 +63,7 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 Plagarism will not be tolerated and will receive **ZERO** point, this includes (but not limited to)
 
 - Copy others' code line by line.
-- Use  online resources line by line, with or without credits.
+- Copy online resources line by line, with or without giving credits.
 
 Offense will be reported to the department.
 
