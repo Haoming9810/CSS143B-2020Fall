@@ -12,15 +12,15 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 
 ## Course Info
 
-| Key Info         |                                                              |
-| ---------------- | ------------------------------------------------------------ |
-| Date & Time      | MW 5:45pm - 7:45pm                                           |
-| Lecturer         | [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) (Discord: @fatgoooose) |
-| Grader           | Jackie Kelly (Discord: @jackiek06)                           |
-| Email            | pengdu@uw.edu ([CSS143] MUST show on subject)                |
-| Lecture Location | Zoom                                                         |
-| Office hours     | Discord ([use this invite to join](https://discord.gg/tQy6tZg)) |
-| Volunteer        | Kevin Blair (Discord: @MadArkadian)                          |
+| Key Info             |                                                              |
+| -------------------- | ------------------------------------------------------------ |
+| Date & Time          | MW 5:45pm - 7:45pm                                           |
+| Lecturer             | [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) (Discord: @fatgoooose) |
+| Grader               | Jackie Kelly (Discord: @jackiek06)                           |
+| Email                | pengdu@uw.edu ([CSS143] MUST show on subject)                |
+| Lecture Location     | Zoom                                                         |
+| Office Hours         | Discord ([use this invite to join](https://discord.gg/tQy6tZg)) |
+| Volunteer Assistance | Kevin Blair (Discord: @MadArkadian)                          |
 
 ## Course Objectives
 
