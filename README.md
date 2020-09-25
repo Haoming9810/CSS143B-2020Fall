@@ -1,5 +1,11 @@
 # CSS 143 Computer Programming II
 
+![](images/overview.png)
+
+
+
+
+
 ## Prerequisites
 
 Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143. 
