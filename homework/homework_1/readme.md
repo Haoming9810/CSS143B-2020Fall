@@ -45,7 +45,7 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 - Fork the above repo (Click the top right "fork" button from the teacher's repo) on Github into your own.
 - In Intellij, clone your repo using the ["Get from Version Control"](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html) option with your repo URL.
 - Select "YES" when asked by Intellij whether you want to open it.
-- Happy coding
+- Happy coding!
 
 A demo of this process can be found in the lecture recording of class 1.
 
