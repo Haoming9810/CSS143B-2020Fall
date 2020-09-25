@@ -1,6 +1,6 @@
 # CSS 143 Computer Programming II
 
-<img src="images/overview.png" style="zoom:50%;" />
+![](images/overview.png)
 
 
 
