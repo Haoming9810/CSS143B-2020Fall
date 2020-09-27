@@ -27,10 +27,9 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 The objectives of this course are for students to: 
 
 - Transition from basic programming skills to a rigorous software development. This includes:
-  - Algoriothm design
+  - Problem solving with data structures and algoriothms
   - Clean code
-  - Test-driven development
-  - Modern development tooling
+  - Modern development tools and idealogies (Intellij, Git, Github, JUnit, Maven, Test Driven Development)
 - Becoming familiar with higher-level programming techniques (object‐orientation, recursion, inheritance, generic programming), constructs (lists, stacks, queues, trees) and algorithms (searching, sorting).
 
 ## Course Learning Outcomes
