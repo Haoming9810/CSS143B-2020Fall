@@ -75,20 +75,20 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 - The following table provides an approximate, high-level ordering of topics, not all sections in the book are covered. 
 - Schedule is tentative and subject to change. Changes will be announced in class and/or Discrod channels.
 
-|  Date | Week | Topics | Chapters |
-| --- | --- | --- | :--- |
-|  9/30 | 1 | Course intro<br/>Java basics<br/>Maven, Git and grading system | 1.2<br/>3.1-3.3 |
-|  10/05, 10/07 | 2 | Java programming basics<br/>OOP concepts | 4<br/>5.2, 5.3<br/>7, 8.1, 8.2<br/>13.1 |
-|  10/12, 10/14 | 3 | Abstract data types: array, list | 6.1-6.3<br/>15.1 |
-|  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue | 15.4 |
-|  10/26, 10/28 | 5 | Recursion (and backtracking) | 11 |
-|  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree | 15.7 |
-|  11/09, 11/11 | 7 | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |  |
-|  11/16, 11/18 | 8 | 11/16 Midterm 2<br/>Dictionary | 15.5 |
-|  11/23, 11/25 | 9 | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |  |
-|  11/30, 12/02 | 10 | Sorting & complexity analysis |  |
-|  12/07 - 12/09 | 11 | Buffer & xam review |  |
-|  12/14 - 12/16 | 12 | 3/16 Final exam |  |
+|  Date | Week | Topics | Chapters | Homework |
+| --- | --- | --- | :--- | --- |
+|  9/30 | 1 | Course intro<br/>Java basics<br/>Maven, Git and grading system | 1.2<br/>3.1-3.3 | homework1 |
+|  10/05, 10/07 | 2 | Java programming basics<br/>OOP concepts | 4<br/>5.2, 5.3<br/>7, 8.1, 8.2<br/>13.1 |  |
+|  10/12, 10/14 | 3 | Abstract data types: array, list | 6.1-6.3<br/>15.1 |  |
+|  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue | 15.4 |  |
+|  10/26, 10/28 | 5 | Recursion (and backtracking) | 11 |  |
+|  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree | 15.7 |  |
+|  11/09, 11/11 | 7 | Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |  |  |
+|  11/16, 11/18 | 8 | 11/16 Midterm 2<br/>Dictionary | 15.5 |  |
+|  11/23, 11/25 | 9 | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |  |  |
+|  11/30, 12/02 | 10 | Sorting & complexity analysis |  |  |
+|  12/07 - 12/09 | 11 | Buffer & xam review |  |  |
+|  12/14 - 12/16 | 12 | 12/16 Final exam |  |  |
 
 ## Computer
 All students are expected to have unfettered access to a personal computer (Windows, Mac, Linux, etc.) or netbook with broadband-speed Internet access. Student access to University computing resources fulfills this requirement. All students are assumed to be proficient with an office productivity suite and email. All students must enable their Canvas Notifications for this course (Links to an external site.) to be at least as frequent as the defaults; if I post announcements, etc. via Canvas, you need to be able to receive them. All students must have a valid email account that they check on a daily basis.
