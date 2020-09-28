@@ -34,7 +34,7 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 
 [Github repo URL for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
 
-### Working Instruction
+### Work Instruction
 - Create your own account at https://github.com/
 - Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-homework1 to your own repo.
 - Open your own repo in Intellij using "Get From Version Control".
