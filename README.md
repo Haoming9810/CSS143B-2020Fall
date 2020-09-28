@@ -77,7 +77,7 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 
 |  Date | Week | Topics | Chapters | Homework |
 | --- | --- | --- | :--- | --- |
-|  9/30 | 1 | Course intro<br/>Java basics<br/>Maven, Git and grading system | 1.2<br/>3.1-3.3 | homework1 |
+|  9/30 | 1 | Course intro<br/>Java basics<br/>Maven, Git and grading system | 1.2<br/>3.1-3.3 | [homework1](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_1) |
 |  10/05, 10/07 | 2 | Java programming basics<br/>OOP concepts | 4<br/>5.2, 5.3<br/>7, 8.1, 8.2<br/>13.1 |  |
 |  10/12, 10/14 | 3 | Abstract data types: array, list | 6.1-6.3<br/>15.1 |  |
 |  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue | 15.4 |  |
