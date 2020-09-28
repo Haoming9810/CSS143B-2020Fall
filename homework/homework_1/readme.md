@@ -11,17 +11,6 @@
 - Write your own tests
 - Get comfortable with the grading process
 
-### Working Instruction
-- Create your own account at https://github.com/
-- Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-homework1 to your own repo.
-- Open your own repo in Intellij using "Get From Version Control".
-- Create a new branch called "work" (you can pick your own name here), and switch to this new branch (automatically in Intellij).
-- Finish the homework in the "work" branch. Make commits and push frequently so your work is kept online safely. The first time when you push online, Intellij will ask you to log in with token or OATH. Token is the easiest way. [Here's an instruction](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token). This will also be demo'd in lecture.
-- Once the homework is ready to for submission, head to your own repo on Github and create a pull request from your "work" branch towards ***your master branch***. NOTE: DO NOT CREATE THE PULL REQUEST TOWARDS THE INSTRUCTOR'S REPO.
-- Submit the url of your pull request in Canva.
-- DO NOT make new code commits after submission deadline. Violation will be treated as late homework.
-- Once grading is done, teacher will mark the PR as "approved" and grade will be published to Canvas.
-
 ### Problems To Solve
 
 There are **THREE** problems to solve. Please find the description of the first 2 problem in their own page:
@@ -45,12 +34,16 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 
 [Github repo URL for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
 
-####  Recommended steps to setup the code for work ####
-
-- Fork the above repo (Click the top right "fork" button from the teacher's repo) on Github into your own.
-- In Intellij, clone your repo using the ["Get from Version Control"](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html) option with your repo URL.
-- Select "YES" when asked by Intellij whether you want to open it.
-- Happy coding!
+### Working Instruction
+- Create your own account at https://github.com/
+- Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-homework1 to your own repo.
+- Open your own repo in Intellij using "Get From Version Control".
+- Create a new branch called "work" (you can pick your own name here), and switch to this new branch (automatically in Intellij).
+- Finish the homework in the "work" branch. Make commits and push frequently so your work is kept online safely. The first time when you push online, Intellij will ask you to log in with token or OATH. Token is the easiest way. [Here's an instruction](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token). This will also be demo'd in lecture.
+- Once the homework is ready to for submission, head to your own repo on Github and create a pull request from your "work" branch towards ***your master branch***. NOTE: DO NOT CREATE THE PULL REQUEST TOWARDS THE INSTRUCTOR'S REPO.
+- Submit the url of your pull request in Canva.
+- DO NOT make new code commits after submission deadline. Violation will be treated as late homework.
+- Once grading is done, teacher will mark the PR as "approved" and grade will be published to Canvas.
 
 A demo of this process can be found in the lecture recording of class 1.
 
