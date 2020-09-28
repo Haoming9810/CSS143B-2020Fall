@@ -18,7 +18,7 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 | Lecturer             | [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) (Discord: @fatgoooose) |
 | Grader               | Jackie Kelly (Discord: @jackiek06)                           |
 | Email                | pengdu@uw.edu ([CSS143] MUST show on subject)                |
-| Lecture Location     | [Zoom meeting url](https://washington.zoom.us/j/96328672078)                                                         |
+| Lecture Location     | [Zoom meeting url](https://washington.zoom.us/j/96328672078). Full invite [here](zoom.md)                                                         |
 | Office Hours         | Discord ([use this invite to join](https://discord.gg/tQy6tZg)) |
 | Volunteer Assistance | Kevin Blair (Discord: @MadArkadian)                          |
 
