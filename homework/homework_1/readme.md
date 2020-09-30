@@ -32,7 +32,9 @@ Your code is as correct as what your tests show. Your code will be assumed to be
 
 ### Code ###
 
-[Github repo URL for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1)
+Here is the code that your solution will be based on: [Github repo URL for problem 1 and 2](https://github.com/pdgetrf/CSS143B-2020Fall-homework1).
+
+Homework submission without using this provided code will receive 0 point.
 
 ### Work Instruction
 - Create your own account at https://github.com/
