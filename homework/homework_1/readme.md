@@ -47,7 +47,7 @@ Homework submission without using this provided code will receive 0 point.
 - DO NOT make new code commits after submission deadline. Violation will be treated as late homework.
 - Once grading is done, teacher will mark the PR as "approved" and grade will be published to Canvas.
 
-A demo of this process can be found in the lecture recording of class 1.
+A demo of this process can be found in the lecture recording of Monday lecture of week 2.
 
 ### Notes ###
 
