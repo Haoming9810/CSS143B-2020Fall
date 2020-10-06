@@ -39,6 +39,7 @@ Homework submission without using this provided code will receive 0 point.
 ### Work Instruction
 - Create your own account at https://github.com/
 - Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-homework1 to your own repo.
+- In the Action tab of the repo, click the green button to enable Action.
 - Open your own repo in Intellij using "Get From Version Control".
 - Create a new branch called "work" (you can pick your own name here), and switch to this new branch (automatically in Intellij).
 - Finish the homework in the "work" branch. Make commits and push frequently so your work is kept online safely. The first time when you push online, Intellij will ask you to log in with token or OATH. Token is the easiest way. [Here's an instruction](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token). This will also be demo'd in lecture.
