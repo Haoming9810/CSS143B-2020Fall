@@ -15,7 +15,7 @@ Minimum grade of 2.7 in CSS 161, CSS 142, or CSE 142. Co-requisite: CSSSKL 143.
 | Key Info             |                                                              |
 | -------------------- | ------------------------------------------------------------ |
 | Date & Time          | MW 5:45pm - 7:45pm                                           |
-| Lecture Location     | [Zoom meeting url](https://futurewei.zoom.us/j/4680233855). Full invite [here](zoom.md)                                                         |
+| Lecture Location     | [Zoom meeting url](https://washington.zoom.us/j/96245343380). Full invite [here](zoom.md)                                                         |
 | Lecturer             | [Peng Du](https://www.linkedin.com/in/peng-du-ph-d-14b0a11b) (Discord: @fatgoooose) |
 | Grader               | Jackie Kelly (Discord: @jackiek06)                           |
 | Volunteer Assistance | Kevin Blair (Discord: @MadArkadian)                          |
