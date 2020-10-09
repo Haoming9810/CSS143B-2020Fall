@@ -48,7 +48,7 @@ For all books and comedy movies, late fee is calculated by
 numOfDaysPastDue x lateFeePerDayInDollar
 ```
 
-For action movie, late fee is calculated slight differently. Use the same fomula above if the number of days past due are less than 5 days. Otherwise use the following：
+For action movies, late fee is calculated slightly differently. Use the same fomula above if the number of days past due are less than 5 days. Otherwise use the following：
 
 ```
 2 x numOfDaysPastDue x lateFeePerDayInDollar
