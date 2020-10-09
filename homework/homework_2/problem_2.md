@@ -1,6 +1,6 @@
 ## (35pt) Remove Duplicates From Sorted Array
 
-Given a ascendingly (small to large) sorted array, remove the duplicates such that each element appears only *once* and returns the new length. This is to be done in-place which means any extra space for another array is not allowed. Similar to how you did it for the bubble sort problem.
+Given a ascendingly (small to large) sorted array, remove the duplicates such that each element appears only *once*, and return the new length. This is to be done in-place which means any extra space for another array is not allowed. Similar to how you did it for the bubble sort problem.
 
 Function signature is:
 
