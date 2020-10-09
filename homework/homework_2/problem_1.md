@@ -12,7 +12,7 @@ A few examples:
 
 You can assume all 3 numbers 0, 1, 2 exist in the array. 
 
-The solution can only make a single pass (ONE, that is) passes through the array without any additional array. O(1) space complexity if you know the fancy terms. That means you can only go through the entire array no more than one time. 
+The solution can only make a single pass (ONE, that is) through the array without any additional array. O(1) space complexity if you know the fancy terms. That means you can only go through the entire array no more than one time. 
 
 ### Tests
 
