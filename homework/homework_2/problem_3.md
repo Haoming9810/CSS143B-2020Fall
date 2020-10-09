@@ -2,7 +2,7 @@
 
 A media retnal store needs to implement some operations for their books and movies. 
 
-There are two kinds of media: Book and Movie. Both media types has an **id** field as its store unique identifier. 
+There are two kinds of media: Book and Movie. Both media types have an **id** field as its store unique identifier. 
 
 There are two kinds of book in the store, fiction and romance.
 
