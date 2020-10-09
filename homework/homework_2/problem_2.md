@@ -30,3 +30,5 @@ Given nums = [0, 0, 0]:
 
 For 5pt out of this 35pt, at the beginning of the code, describe your algorithm in up to 5 sentences in comments. Zero point if it's missing or exceeds 5 senteces. 
 
+### Testing (5pt)
+Only 1 test case is provided as an example. Please add at least another 5 cases.
