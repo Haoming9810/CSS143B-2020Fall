@@ -2,7 +2,7 @@
 
 Sort an array that contains three colors red, yellow and green in-place such that the same color are adjacent, with the colors in the order of red, yellow and green. Integers 0, 1, and 2 are used to represent the color red, yellow, and green respectively. 
 
-No sorting function from any library is allowed or you'll receive zero points. (And most likely they do sort by making more than one passes. ~Duh!)
+No sorting function from any library is allowed or you'll receive zero points. (And most likely they do sort by making more than one passes, so yeah don't bother with them!)
 
 A few examples:
 
