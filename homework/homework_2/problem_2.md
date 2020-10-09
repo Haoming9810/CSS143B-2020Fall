@@ -19,7 +19,12 @@ A few examples:
 Given nums = [0,0,0,1,1,2,2,3,4,5,5]:
 
 - Return value is 6
-- Array nums becomes [0, 1, 2, 3, 4, 5], spaces after value 5 are ignored in tests
+- Array nums becomes [0, 1, 2, 3, 4, 5], array content after index 5 is ignored in tests
+
+Given nums = [0,0,0]:
+
+- Return value is 1
+- Array nums becomes [0], array content after index 0 is ignored in tests
 
 ### Communication Points
 
