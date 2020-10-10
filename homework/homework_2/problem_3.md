@@ -1,3 +1,7 @@
+<img src="images/media_store.jpg"
+     alt="Markdown Monster icon"
+     width="60%" />
+
 ## (30pt) Design OOP for A Media Store
 
 A media retnal store needs to implement some operations for their books and movies. 
