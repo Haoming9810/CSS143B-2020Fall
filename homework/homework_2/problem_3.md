@@ -1,5 +1,5 @@
 <img src="images/media_store.jpg"
-     alt="Markdown Monster icon"
+     alt="media store sketch"
      width="60%" />
      
 [sketch source](http://www.urbansketchers.org/2009/12/sketching-at-historic-bookstore-in.html) 
