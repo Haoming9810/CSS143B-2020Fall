@@ -1,3 +1,7 @@
+<img src="images/wandering_cat.png"
+     alt="wandering cat sketch"
+     width="80%" />
+
 ## Wandering Cat
 
 ### Dates
