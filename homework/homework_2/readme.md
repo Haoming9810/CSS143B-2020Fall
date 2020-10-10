@@ -30,6 +30,8 @@ There are **THREE** problems to solve. Please find the description of the first 
 
 [Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-homework2).
 
+When you first fork it, the project cannot compile because some code is missing from problem 3 to be finished. This could block problem 1 and problem 2 tests from running independently. To get around this, [here](https://youtu.be/SsO0VzDMZps) is a quick and easy workaround.
+
 Homework submission without using this provided code will receive 0 point.
 
 ### Work Instruction
