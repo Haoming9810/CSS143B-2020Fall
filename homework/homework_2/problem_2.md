@@ -10,6 +10,7 @@ public static int remove(int[] nums)
 
 Things to pay attention to:
 
+- You can assume the input array is always sorted
 - Return value is the new length after all duplicates are removed
 - The input array "nums" is to be modified directly without any additional space (such as another array)
 - The input array should still be sorted after removing all the duplicates
