@@ -4,7 +4,7 @@
      
 [sketch source](http://www.urbansketchers.org/2009/12/sketching-at-historic-bookstore-in.html) 
 
-This home is based on Programming Projects 8.2 & 8.3 on page 518 in Absolute Java 6th edition.
+This homework was developed based on Programming Projects 8.2 & 8.3 on page 518 in Absolute Java 6th edition.
 
 ## (30pt) Design OOP for A Media Store
 
