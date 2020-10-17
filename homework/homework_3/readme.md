@@ -1,3 +1,7 @@
+<img src="images/pokerfaces.png"
+     alt="poker face sketch"
+     width="65%" />
+     
 ## Behind The Poker Face
 
 ### Dates
