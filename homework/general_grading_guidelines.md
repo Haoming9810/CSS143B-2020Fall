@@ -15,6 +15,7 @@
 | No test                                                 | -80%                  | Problem/subproblem      |
 | Non-working or invalid tests (e.g. not testing the target function) | -80%                  | Problem/subproblem      |
 | Missing implementation                                       | -100%                 | Problem/subproblem      |
+| Using additional memory when O(1) is specified | -100% | Problem/subproblem |
 
 
 
