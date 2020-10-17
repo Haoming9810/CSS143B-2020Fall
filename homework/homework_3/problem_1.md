@@ -25,7 +25,7 @@ Implement the ArrayStack where an array is used to store data.
 
 ### 1.2 Implement Stack Using LinkedList (5pt)
 
-Implement the ArrayStack where an LinkedList is used to store data.
+Implement the ArrayStack where a LinkedList is used to store data.
 
 ### 1.3 MinStack (15pt)
 
