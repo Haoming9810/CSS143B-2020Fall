@@ -4,7 +4,7 @@ Going backward is fun sometimes.
 
 Let's write a function to print a single linked list backward to the screen.
 
-"if one can only go one-way from head to tail in a single linked list, how do we travel through it backward?", you ask.
+"if one can only go one-way from head to tail in a single linked list, how do we travel through it backward?", you might ask.
 
 Well, since a Stack is FILO, it is a perfect candidate for this job. Imagine walking through the linked list and pushing each node's value onto a stack. Once it's through, simply pop everything from the stack and print to screen and you are done! 
 
