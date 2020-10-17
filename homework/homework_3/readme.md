@@ -22,7 +22,7 @@ There are **THREE** problems to solve:
 
 ### Code ###
 
-[Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-homework2).
+[Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-homework3).
 
 Homework submission without using this provided code will receive 0 point.
 
