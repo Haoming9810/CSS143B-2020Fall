@@ -21,11 +21,11 @@ public interface Stack<T> {
 
 ### 1.1 Implement Stack Using Array (5pt)
 
-Implement the ArrayStack where an array is used to store data in a stack.
+Implement the ArrayStack where an array is used to store data.
 
 ### 1.2 Implement Stack Using LinkedList (5pt)
 
-Implement the ArrayStack where an LinkedList is used to store data in a stack.
+Implement the ArrayStack where an LinkedList is used to store data.
 
 ### 1.3 MinStack (15pt)
 
