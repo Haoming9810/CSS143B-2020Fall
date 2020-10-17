@@ -46,7 +46,7 @@ Complete the MinStack class such that:
 
 ### 1.4 Validate Parentheses (15pt)
 
-Now that you finished the Stack ADT, let's put it to some use to solve the following problem.
+Now that you finished the Stack ADT, let's put it to some use.
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', implement the ValidParentheses.isValid() ***USING YOUR ArrayStack OR LinkedListStack*** in ValidParentheses to determind if the input string is valid. Using other stack implementation will loose you all the points for this problem 1.4.
 
