@@ -1,6 +1,6 @@
 <img src="images/hanoi.jpg"
      alt="hanoi tower sketch"
-     width="60%" />
+     width="50%" />
 
 ## (40pt) Stacks
 
