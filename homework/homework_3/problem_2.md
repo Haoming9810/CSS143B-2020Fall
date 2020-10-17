@@ -33,11 +33,11 @@ This function removes *all* nodes whose val == valueToRemove and returns the num
 For example:
 
 - If the list is empty, after calling the removeAll() with any input, the list will still be empty and return 0
-- If the list is 1->2->3, after calling the remove(3) the list will be 1->2, and return 1
-- If the list is 1->2->4->2, after calling remove(2) the list will be 1->4, and return 2
-- If the list is 1->1->4->2, after calling remove(1) the list will be 4->2, and return 2
-- if the list is 3->3->3->3, after calling remove(3) the list will be empty, and return 4
-- If the list is 1->1->4->2, after calling remove(5) the list will still be 1->1->4->2, and return 0
+- If the list is 1->2->3, after calling the removeAll(3) the list will be 1->2, and return 1
+- If the list is 1->2->4->2, after calling removeAll(2) the list will be 1->4, and return 2
+- If the list is 1->1->4->2, after calling removeAll(1) the list will be 4->2, and return 2
+- if the list is 3->3->3->3, after calling removeAll(3) the list will be empty, and return 4
+- If the list is 1->1->4->2, after calling removeAll(5) the list will still be 1->1->4->2, and return 0
 
 ### 3. (15pt) Reverse a linked list iteratively
 ```java
