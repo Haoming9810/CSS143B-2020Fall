@@ -29,7 +29,7 @@ Implement the ArrayStack where a LinkedList is used to store data. Let's use [Li
 
 ### 1.3 MinStack (15pt)
 
-Design a special kind of stack can ***retrieves the minimum element in constant time without using loop to visit each all the data in the stack***.
+Design a special kind of stack can ***retrieve the minimum element in constant time without using loop to visit all the data in the stack***.
 
 The MinStack class is based on your ArrayStack class from problem 1.1 as you can see from the "extends" operator. This means problem 1.1 needs to be done first.
 
