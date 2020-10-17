@@ -2,7 +2,7 @@
 
 
 
-| Reason                                                       | Points Penalty        | Unit for Points Penalty |
+| Reason                                                       | Points Penalty        | Scopes for Points Penalty |
 | :----------------------------------------------------------- | --------------------- | ----------------------- |
 | Identical homework (implenetation & tests)                   | -100% for all parties | Homework                |
 | No submission in canvas                                      | -100%                 | Homework                |
