@@ -25,7 +25,7 @@ Implement the ArrayStack where an array is used to store data.
 
 ### 1.2 Implement Stack Using LinkedList (5pt)
 
-Implement the ArrayStack where a LinkedList is used to store data. Let's use the LinkedList<T> from Java for this.
+Implement the ArrayStack where a LinkedList is used to store data. Let's use [LinkedList](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html) from Java for this.
 
 ### 1.3 MinStack (15pt)
 
