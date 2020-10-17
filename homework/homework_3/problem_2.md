@@ -21,7 +21,7 @@ and newList will be initialized as h->1->2->3.
 
 Note that copy constructor will copy the values in each node, not the references. 
 
-### 2. (15pt) Implement the remove function
+### 2. (15pt) Remove all nodes with the given value
 ```java
     public int removeAll(int valueToRemove) {
     // homework
@@ -39,7 +39,7 @@ For example:
 - if the list is 3->3->3->3, after calling remove(3) the list will be empty, and return 4
 - If the list is 1->1->4->2, after calling remove(5) the list will still be 1->1->4->2, and return 0
 
-### 3. (15pt) Implement the linked list reversal iteratively
+### 3. (15pt) Reverse a linked list iteratively
 ```java
 public void reverse() {
     // homework
