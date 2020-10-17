@@ -1,3 +1,7 @@
+<img src="images/hanoi.jpg"
+     alt="hanoi tower sketch"
+     width="60%" />
+
 ## (40pt) Stacks
 
 Stack is another ADT that's very commonly used. 
