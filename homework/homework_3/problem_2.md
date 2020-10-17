@@ -1,6 +1,6 @@
 ## Linked List
 
-All the following problems are assuming SingleLinkedList *using a dummy node*.
+All the following problems are assuming SingleLinkedList is *using a dummy node*.
 
 ### 1. (10pt) Implement a copy constructor for SingleLinkedList
 A [copy constructor](https://www.baeldung.com/java-copy-constructor) initializes a list by making an identical copy of the values in all the nodes in the given list.
