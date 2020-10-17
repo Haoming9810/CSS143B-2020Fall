@@ -42,7 +42,7 @@ public class MinStack extends ArrayStack<Integer> {
 Complete the MinStack class such that:
 
 - the constructor, pop(), push() work just like in a regular FILO stack.
-- getMin() returns the minimum element currently existing in the stack in constant time. *"constant time"* means to find this minimum value, your code should have use constant number of steps no matter how many data elements exist in the stack. It shouldn't need to loop through all the elements in the stack. Take a look at *testMinStackPushPop* and *testMinStackPush* for examples on how MinStack works.
+- getMin() returns the minimum element currently existing in the stack in constant time. *"constant time"* means to find this minimum value, your code should have use constant number of steps no matter how many data elements exist in the stack. It shouldn't need to loop through all the elements in the stack. Take a look at *testMinStackPushPop* and *testMinStackPush* for examples on how getMin() works.
 
 ### 1.4 Validate Parentheses (15pt)
 
