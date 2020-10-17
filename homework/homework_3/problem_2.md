@@ -1,3 +1,7 @@
+<img src="images/train.jpg"
+     alt="hanoi tower sketch"
+     width="60%" />
+
 ## Linked List
 
 All the following problems are assuming SingleLinkedList is *using a dummy node*.
