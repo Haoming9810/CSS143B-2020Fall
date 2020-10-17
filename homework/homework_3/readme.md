@@ -2,8 +2,6 @@
      alt="poker face sketch"
      width="65%" />
 
-Art Work by Stella Chen
-
 ## Behind The Poker Face
 
 ### Dates
