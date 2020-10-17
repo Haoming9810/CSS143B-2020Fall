@@ -1,7 +1,8 @@
 <img src="images/pokerfaces.png"
      alt="poker face sketch"
      width="65%" />
-art work by Stella Chen
+
+Art Work by Stella Chen
 
 ## Behind The Poker Face
 
