@@ -12,7 +12,7 @@
 | Missing or failed check in pull request                      | -80%                  | Problem/subproblem      |
 | Wrong algorithm in implementation (e.g. recursion vs iterative)                | -80%                  | Problem/subproblem      |
 | Missing assertion in a test                                  | -80%                  | Problem/subproblem/test      |
-| No test                                                 | -80%                  | Problem/subproblem      |
+| No test when required                                                 | -80%                  | Problem/subproblem      |
 | Non-working or invalid tests (e.g. not testing the target function) | -80%                  | Problem/subproblem      |
 | Missing implementation                                       | -100%                 | Problem/subproblem      |
 | Using additional memory when O(1) is specified | -100% | Problem/subproblem |
