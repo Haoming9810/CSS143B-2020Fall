@@ -17,7 +17,7 @@ The "void" keyword means:
     public String sleep();
 ```
 
-We need to create 1000 Dog objects and 2000 Dat objects, and then call the sleep() function in all of them. 
+We need to create 3 Dog objects and 5 Dat objects, and then call the sleep() function in all of them. 
 
 Write code for this by using only 1 loop.
 
@@ -26,7 +26,7 @@ Write code for this by using only 1 loop.
 <br/>
 <br/>
 
-**9. (15pt) Write a function to check whether an integer array is in ascending order. **
+**9. (15pt) Write a function to check whether an integer array is in ascending order.**
 
 For example, 
 
@@ -41,7 +41,7 @@ public static boolean isAscending(int[] data) {
 }
 ```
 
-**10. (5pt) How would you test your  isAscending function? Write down the test cases as you think necessary**
+**10. (5pt) How would you test your  isAscending function? Write down the test cases as you think necessary.**
 <br/>
 <br/>
 <br/>
