@@ -16,5 +16,4 @@
 | Non-working or invalid tests (e.g. not testing the target function) | -80%                  | Problem/subproblem      |
 | Missing implementation                                       | -100%                 | Problem/subproblem      |
 
-
 When in doubt of violating any of the above rules, double check with instructor and/or TA before submission deadline.
