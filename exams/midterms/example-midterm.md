@@ -1,11 +1,11 @@
 ## 2020 Autumn CSS143B Midterm 1 &nbsp; &nbsp; &nbsp; Student Name:
 
-**1. (2pt) The "void" methods***
+**1. (2pt) Single choice.**
 
 ```java
 void foo() {}
 ```
-
+The "void" keyword means:
 - (A) return Strings.
 - (B) return primitive type values.
 - (C) return class-type values.
