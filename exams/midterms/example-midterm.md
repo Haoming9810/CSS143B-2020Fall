@@ -105,7 +105,7 @@ public class ListNode {
 - No dummy node.
 
 ``` java
-public void remove(ListNode head, int target) {
+public ListNode remove(ListNode head, int target) {
   
 }
 ```
