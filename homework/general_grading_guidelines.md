@@ -6,7 +6,8 @@
 | :----------------------------------------------------------- | --------------------- | ----------------------- |
 | Identical homework (implenetation & tests)                   | -100% for all parties | Homework                |
 | No submission in canvas                                      | -100%                 | Homework                |
-| No pull request in Github repository                         | -100%                 | Homework                |
+| No pull request in Github repository (or PR towards wrong master)                         | -100%                 | Homework                |
+| Modified master branch in your repo                      | -100%                 | Homework                |
 | Repo has any commit past submission deadline                      | -100%                 | Homework                |
 | Removal of any given test or test case                         | -100%                 | Problem/subproblem      |
 | Missing or failed check in pull request                      | -80%                  | Problem/subproblem      |
