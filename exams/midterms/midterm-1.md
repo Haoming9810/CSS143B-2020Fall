@@ -348,7 +348,7 @@ public void removeDuplicates(ListNode head) {
 }
 ```
 
-**20. (3pt) Extra Credit**
+**(3pt) Extra Credit**
 
 You are writing tests for one of your project homework. Your friend Jerry came by and saw this. He said "The testing you are writing is meaningless! You wrote both the function and its tests. Of course the tests you write will always pass. What's the point?" Knowing the rule of testing, you decide to correct his mistake and strike the smirk off his face. how would you reply?
 
