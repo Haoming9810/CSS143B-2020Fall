@@ -1,3 +1,7 @@
+<img src="images/bug.jpg"
+     alt="bugged cat"
+     width="65%" />
+
 ## Quiz-1
 
 ### Dates
