@@ -19,7 +19,7 @@ In the media store problem of homework 2, we were asked to implement the *equals
 And the definition of "being equal" for books and movies are:
 
 ```
-A movie equals another movie only when their **id** are the same. Same rule for books being equal.
+A movie equals another movie only when their id are the same. Same rule for books being equal.
 ```
 
 Unfortunately, Lots of us missed this and instead implemented it this way:
