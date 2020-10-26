@@ -48,5 +48,7 @@ The location of the bug is already marked in both Movie and Book class, and the 
 
 DO NOT CHANGE OR REMOVE OLD TESTS OR ALL IS LOST.
 
-Submit your PR the same way as other homeworks. In the submission, make sure your code has switched to the fix given for PR check to pass.
+Submit your PR the same way as other homeworks. [Here's a reminder](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_2#work-instruction)
+
+In the submission, make sure your code has switched to the fix given for PR check to pass.
 
