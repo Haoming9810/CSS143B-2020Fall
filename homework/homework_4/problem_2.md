@@ -83,7 +83,7 @@ But how do we sort list 1 and list 2 to begin with? Well, think about this quest
 
 This is the same task of sorting a linked list right? Then we can use the same idea recursively. If we break each of these 2 lists into their two halves, sort all the halves and merge them, we can sort list 1 and list 2. 
 
-So to get this task done, we essentially have 3 tasks:
+So to get this task done, we essentially have 3 functions:
 
 1. Break a linked list into two equally sized lists (or size by 1)
 2. Sort both halves
