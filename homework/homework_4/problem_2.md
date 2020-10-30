@@ -37,12 +37,12 @@ In this task, we need to write the code to implement this sort. The requirements
 - Cannot allocate any collection storage such as array, stack or queue.
 - Cannot change the value of any node. Only the *next* variable can be changed.
 
-To be honest, the algorithm is pretty difficult to come up with (doesn't mean your shouldn't try), and it's not really the point for a homework. To make life a bit easier, the algorithm will be presented to you here. All you need to do is put the idea into code and see it come running alive backed by tests. The followoing paragraph will describe the algorithm. You might want to pause here for some thinking if you want to challenge yourself to come up with your own algorithm following the above requirements.
+To be honest, the algorithm is pretty difficult to come up with (doesn't mean your shouldn't try), and it's not really the point for a homework. To make life a bit easier, the algorithm will be presented to you here. All you need to do is put the idea into code and see it come alive running, backed by tests. The followoing paragraph will describe the algorithm. You might want to pause here for some thinking if you want to challenge yourself to come up with your own algorithm following the above requirements.
 
 Given a list e.g.
 
 ```
-4->2->1->8->5->3->10->9
+4->2->1->8->5->3->10->9->n
 ```
 
 The idea is to split it into two halves:
@@ -50,13 +50,13 @@ The idea is to split it into two halves:
 List 1:
 
 ```
-4->2->1->8
+4->2->1->8->n
 ```
 
 List 2: 
 
 ```
-5->3->10->9
+5->3->10->9->n
 ```
 
 Using the idea of recursion, if we get both list 1 and list 2 sorted, then we'll have
@@ -64,19 +64,19 @@ Using the idea of recursion, if we get both list 1 and list 2 sorted, then we'll
 List 1:
 
 ```
-1->2->4->8
+1->2->4->8->n
 ```
 
 List 2: 
 
 ```
-3->5->9->10
+3->5->9->10->n
 ```
 
 All we need to do now is to **combine** the two lists into one list:
 
 ```
-1->2->3->4->5->9->9->10
+1->2->3->4->5->9->9->10->n
 ```
 
 But how do we sort list 1 and list 2 to begin with? Well, think about this question for a second, out loud even......
