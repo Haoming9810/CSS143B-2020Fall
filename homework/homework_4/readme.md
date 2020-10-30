@@ -11,7 +11,7 @@
 
 ## Goals ##
 
-- Understand Recursion
+- Understand recursion
 - Sneak peek into the concept of dependency injection for testing
 
 ### Problems To Solve
