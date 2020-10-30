@@ -29,6 +29,8 @@ No additional storage like array, stack, queue or another linkedlist is allowed 
 
 ### 2. (30pt) Sort a single linked list RECURSIVELY
 
+Note that his linked list implementation does NOT use a dummy node.
+
 In this task, we need to write the code to implement this sort. The requirements are:
 
 - Must use recursion.
