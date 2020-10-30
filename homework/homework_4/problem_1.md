@@ -1,6 +1,6 @@
 <img src="images/permutation.png"
      alt="permutation"
-     width="20%" />
+     width="30%" />
 
 ## (40pt) Recursion and backtracking
 
