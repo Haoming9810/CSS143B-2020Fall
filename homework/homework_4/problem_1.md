@@ -4,7 +4,7 @@
 
 ## (40pt) Recursion and backtracking
 
-### 1.1 (10pt) Write a function to perform binary search recursively in an ascendingly integer array. ###
+### 1.1 (10pt) Write a function to perform binary search recursively in an ascendingly sorted integer array. ###
 
 We did the binary search in homework 1. This time let's do it again but put our recursion idea to some use. 
 
