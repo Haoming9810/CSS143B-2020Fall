@@ -2,7 +2,7 @@
      alt="recursion"
      width="65%" />
 
-## Dream In A Dream
+## A Dream In A Dream
 
 ### Dates
 
