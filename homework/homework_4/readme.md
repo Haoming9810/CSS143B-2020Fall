@@ -1,4 +1,4 @@
-<img src="images/recursion.png"
+<img src="images/recursion.jpg"
      alt="recursion"
      width="65%" />
 
