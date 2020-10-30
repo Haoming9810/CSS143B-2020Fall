@@ -20,12 +20,13 @@ There are **THREE** problems to solve:
 
 - [Problem 1](problem_1.md) (40pt)
 - [Problem 2](problem_2.md) (40pt)
-
 - [Problem 3](problem_3.md) (20pt)
 
 ### Code ###
 
 [Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-homework4).
+
+All tests are provided to you. Upon finish, all tests should pass. DO NOT REMOVE OR CHANGE GIVEN TESTS.
 
 Homework submission without using this provided code will receive 0 point.
 
