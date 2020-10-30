@@ -115,7 +115,7 @@ public static ListNode findMidAndBreak(ListNode head) {
 }
 ```
 
-This function takes the given list, break into two halves from the middle. The first half should still start with *head*, and the beginning node of the 2nd half is returned.
+This function takes the given list, break it from middle into two lists. The first half should still start with *head*, and it returns the beginning node of the 2nd half.
 
 ```java
 public static ListNode mergeLists(ListNode list1, ListNode list2) {
@@ -124,7 +124,7 @@ public static ListNode mergeLists(ListNode list1, ListNode list2) {
 }
 ```
 
-This function takes two sorted linked list, and merges them into one sorted list, and returns the head node. No new node can be created for this, and both lists can be visited from head to end only once. 
+This function takes two sorted linked list, merges them into one sorted list, and then returns the head node. No new node can be created for this, and both lists can be visited from head to end only once. 
 
 Tests are provided for the above 2 functions. Once both tests passed, the sort list function should also pass its test. 
 
