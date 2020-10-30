@@ -44,7 +44,7 @@ For 3 numbers, there are six permutations
 ]
 ```
 
-The way to think of this is each number will need to appear as the first number of a sequence, for example, [1,2,3] and
+The way to understand how this works is each number will need to appear as the first number of a sequence, for example, [1,2,3] and
  [1,3,2] both starts with 1. [2,1,3] and [2,3,1] both start with 2, and [3,1,2] and [3,2,1] both start with 3. Same rules for the 2nd place. For [1,2,3] and [1,3,2], because the first number are both 1, then only 2 and 3 can appear as the second number. If 2 is the second number, then 3 can only be the 3rd and last number. This is natural recursion problem. The idea is if you pick a number to put in the first location, and you have all the permutations from the rest numbers, you wil have the permutation with all the numbers that start with that number you picked. 
 
 This algorithm will be discussed in details in the Monday lecture. 
