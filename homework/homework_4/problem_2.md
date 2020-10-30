@@ -77,7 +77,7 @@ All we need to do now is to **combine** the two lists into one list:
 1->2->3->4->5->9->9->10
 ```
 
-But how do we sort list 1 and list 2 to begin with? Well, think of this question for a second out loud......
+But how do we sort list 1 and list 2 to begin with? Well, think about this question for a second, out loud even......
 
 This is the same task of sorting a linked list right? Then we can use the same idea recursively. If we break each of these 2 lists into their two halves, sort all the halves and merge them, we can sort list 1 and list 2. 
 
