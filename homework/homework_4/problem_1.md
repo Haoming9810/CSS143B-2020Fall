@@ -19,8 +19,6 @@ For example:
 
 Your test can assume input array is correctly sorted. 
 
-Tests are provided to you. Upon finish, all tests should pass. 
-
 ### 1.2 (20) Write the code to output all permutations of a set of distinct numbers. ###
 
 *"Permutation"* by definition means:
