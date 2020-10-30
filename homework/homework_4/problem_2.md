@@ -37,7 +37,7 @@ In this task, we need to write the code to implement this sort. The requirements
 - Cannot allocate any collection storage such as array, stack or queue.
 - Cannot change the value of any node. Only the *next* variable can be changed.
 
-To be honest, the algorithm is pretty difficult to come up, and it's not really the point for a homework. To make life a bit easier, the algorithm will be presented to you here. All you need to do is put the idea into code and see it come running alive backed by tests. The followoing paragraph will describe the algorithm. You might want to pause here for some thinking if you want to challenge yourself to come up with your own algorithm following the above requirements.
+To be honest, the algorithm is pretty difficult to come up with (doesn't mean your shouldn't try), and it's not really the point for a homework. To make life a bit easier, the algorithm will be presented to you here. All you need to do is put the idea into code and see it come running alive backed by tests. The followoing paragraph will describe the algorithm. You might want to pause here for some thinking if you want to challenge yourself to come up with your own algorithm following the above requirements.
 
 Given a list e.g.
 
