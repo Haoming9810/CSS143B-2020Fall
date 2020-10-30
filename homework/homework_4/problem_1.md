@@ -27,7 +27,7 @@ Your test can assume input array is correctly sorted.
 A way, especially one of several possible variations, in which a set or number of things can be ordered or arranged.
 ```
 
-For example, give 1 number [1], there's only 1 permutation 1.
+For example, give a single number 1, there's only 1 permutation 1.
 
 For 2 numbers 1 and 2, there are two permutations [1,2] and [2,1].
 
