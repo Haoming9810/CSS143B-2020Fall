@@ -1,3 +1,7 @@
+<img src="images/hand.jpg"
+     alt="hand"
+     width="50%" />
+
 ## (10pt) Print A Single Linked List In Reverse Order
 
 Going backward is fun sometimes.

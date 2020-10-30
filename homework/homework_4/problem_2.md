@@ -1,6 +1,6 @@
-<img src="images/train.jpg"
-     alt="hanoi tower sketch"
-     width="60%" />
+<img src="images/chain.jpg"
+     alt="bicycle"
+     width="50%" />
 
 ## Linked List
 

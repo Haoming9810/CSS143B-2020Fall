@@ -1,5 +1,5 @@
-<img src="images/pokerfaces.png"
-     alt="poker face sketch"
+<img src="images/recursion.png"
+     alt="recursion"
      width="65%" />
 
 ## Dream In A Dream

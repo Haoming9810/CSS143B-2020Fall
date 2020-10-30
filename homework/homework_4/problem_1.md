@@ -1,6 +1,6 @@
-<img src="images/hanoi.jpg"
-     alt="hanoi tower sketch"
-     width="50%" />
+<img src="images/permutation.png"
+     alt="permutation"
+     width="20%" />
 
 ## (40pt) Recursion and backtracking
 
