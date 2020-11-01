@@ -186,7 +186,7 @@ what's the potential issue with the above code and how to fix it?
 <br/>
 <br/>
 
-**12. (15pt) Write a function to check whether an integer array is Palindrome. **
+**12. (15pt) Write a function to check whether an integer array is Palindrome.**
 
 When the content of an array reads the same from left to right as from right to left, it's called a palindrom or symmetrical. 
 
@@ -301,14 +301,14 @@ To achieve fast search, which data structure would you pick to store the usernam
 <br/>
 <br/>
 
-**19. (4pt) What's the difference between Stack and Queue in terms of access pattrn?**
+**19. (5pt) What's the difference between Stack and Queue in terms of access pattrn?**
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-**20. (4pt) Write code to remove duplicates from a sorted single linked list in-place**
+**20. (5pt) Write code to remove duplicates from a sorted single linked list in-place**
 
 ```
 Input: 1->2->2
@@ -348,7 +348,7 @@ public void removeDuplicates(ListNode head) {
 }
 ```
 
-**(3pt) Extra Credit**
+**(5pt) Extra Credit**
 
 You are writing tests for one of your project homework. Your friend Jerry came by and saw this. He said "The testing you are writing is meaningless! You wrote both the function and its tests. Of course the tests you write will always pass. What's the point?" Knowing the rule of testing, you decide to correct his mistake and strike the smirk off his face. how would you reply?
 
