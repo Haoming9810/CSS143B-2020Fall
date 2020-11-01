@@ -115,7 +115,9 @@ public static ListNode findMidAndBreak(ListNode head) {
 }
 ```
 
-This function takes the given list, break it from middle into two lists. The first half should still start with *head*, and it returns the beginning node of the 2nd half.
+findMidAndBreak breaks the given list from middle into two lists. The first half should still start with *head*, and it returns the beginning node of the 2nd half.
+
+**EXTRA CREDIT (5pt)** Implement findMidAndBreak with only 1 pass through the list.
 
 ```java
 public static ListNode mergeLists(ListNode list1, ListNode list2) {
