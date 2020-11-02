@@ -19,8 +19,8 @@
 There are **THREE** problems to solve:
 
 - [Problem 1](problem_1.md) (40pt)
-- [Problem 2](problem_2.md) (40pt)
-- [Problem 3](problem_3.md) (20pt)
+- [Problem 2](problem_2.md) (50pt)
+- [Problem 3](problem_3.md) (10pt)
 
 ### Code ###
 
