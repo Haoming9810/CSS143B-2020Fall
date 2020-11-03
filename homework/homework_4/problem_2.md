@@ -76,7 +76,7 @@ List 2:
 All we need to do now is to **combine** the two lists into one list:
 
 ```
-1->2->3->4->5->9->9->10->n
+1->2->3->4->5->8->9->10->n
 ```
 
 But how do we sort list 1 and list 2 to begin with? Well, think about this question for a second, out loud even......
