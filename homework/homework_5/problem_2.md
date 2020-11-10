@@ -9,7 +9,7 @@ There will be a video around Wednesday to discuss this.
 Tests are provided. Good test also serves as a manual. For example:
 
 ```java
-				//      1
+	//      1
         //     / \
         //    2   3
         //   / \   \
