@@ -6,7 +6,7 @@ According to the [definition of LCA on Wikipedia](https://en.wikipedia.org/wiki/
 
 There will be a video around Wednesday to discuss this.
 
-Tests are provided. Good test also serves as a manual. For example:
+Tests are provided and also serve as a manual for how the algorithm should work. For example:
 
 ```java
 	//      1
