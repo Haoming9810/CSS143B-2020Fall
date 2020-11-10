@@ -11,7 +11,7 @@
 
 ## Goals ##
 
-- Learning Trees
+- Growing Trees
 
 ### Problems To Solve
 
