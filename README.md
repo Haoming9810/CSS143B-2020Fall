@@ -83,7 +83,7 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 |  10/19, 10/21 | 4 | 10/19 Midterm 1<br/>ADTs: stack, queue | 15.4 |  |
 |  10/26, 10/28 | 5 | Recursion (and backtracking) | 11 | [homework 4](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_4)  |
 |  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree | 15.7 |  |
-|  11/09, 11/11 | 7 | More on Binary Trees, Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |  |  |
+|  11/09, 11/11 | 7 | More on Binary Trees, Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |  | [homework 5](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_5) |
 |  11/16, 11/18 | 8 | Dictionary<br/>11/18 Midterm 2 | 15.5 |  |
 |  11/23, 11/25 | 9 | Special topic: Binary Tree in Database<br/>Guest lecture (Marvin: FPV drone programming) |  |  |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis |  |  |
