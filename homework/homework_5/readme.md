@@ -1,4 +1,4 @@
-<img src="images/four_season.jpg"
+<img src="images/four_seasons.jpg"
      alt="four seasons"
      width="65%" />
 
