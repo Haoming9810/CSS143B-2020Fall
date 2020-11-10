@@ -1,6 +1,6 @@
 ## (20pt) Insert a value in a Binary Search Tree
 
-### 3.1 (10pt) Write the following function that insert a value into a binary search tree:
+### 3.1 (10pt) Write the following function that inserts a value into a binary search tree:
 
 ```java
     public static void insert(TreeNode<Integer> root, int valToInsert) {
@@ -10,7 +10,7 @@
 
 This can be done either recursively or iteratively. The insertion is to follow the rule of BST and the tree after the insertion would still be a BST. 
 
-### 3.2 (5pt) Write the following function that insert a value into a binary search tree:
+### 3.2 (5pt) Write the following function that verifies an in-order traverse:
 
 In the given tests for 3.1, the following function is provided:
 
@@ -22,7 +22,7 @@ In the given tests for 3.1, the following function is provided:
     }
 ```
 
-This is used to verify the tree is still BST after insertion. However, this test code itself also needs to be verified. Finish the test for this test:
+This is used to verify the tree is still a BST after insertion. However, this test code itself also needs to be verified. Finish the test for this test:
 
 ```java
     @Test
