@@ -7,7 +7,7 @@
 ### Dates
 
     - Assigned: 10/29/2020
-    - Due: 11/05/2020 Thursday 11:59pm
+    - Due: 11/05/2020 Thursday 11:59pm, extended to 11/07
 
 ## Goals ##
 
