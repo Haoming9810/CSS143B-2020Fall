@@ -30,7 +30,9 @@ Tests are provided and also serve as a manual for how the algorithm should work.
 
 In this tree, the LCA of nodes 4 and 6 is 1. The LCA of nodes 4 and 5 is 2. 
 
-This is to be done with recursion.
+This is to be done with recursion. 
+
+**Notice: The input tree is not necessarily a binary search tree.**
 
 ***Important Assumptions:***
 
