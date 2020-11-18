@@ -31,5 +31,4 @@
 ## Dictionary
 
 - Hash function, hash key
-- Collision avoidance via chaining
 - Array vs Linkedlist vs BST vs Dictionary (the snapchat username problem) 
