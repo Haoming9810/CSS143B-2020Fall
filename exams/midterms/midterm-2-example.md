@@ -20,7 +20,7 @@
 - (C) Array and linked list can have comparably fast pop and push implementation
 - (D) Stack implemented using linked list has slightly higher storage overhead comparing to using array due to the additional node references storage
 
-**9.1 (10pt) Write code to print out all the non-leaf nodes in a binary tree.**
+**9.1 (10pt) Write code to return all the non-leaf nodes in a binary tree.**
 
 The definition of the tree node is:
 
@@ -48,7 +48,7 @@ The leaf nodes are the ones without any child node (both left and right referenc
 The result will be [3, 9, 20, 8], and the order of print does not matter
 
 ```java
-List<Integer> printNonLeafNodes(TreeNode root) {
+List<Integer> getNonLeafNodes(TreeNode root) {
   
   
   
