@@ -170,9 +170,9 @@ For example, the following trees are all vertically symmetrical:
    / \            / \
   9   9        null null
   
-       8				  3
-     /   \ 			/   \ 
-    5     5		   2       2
+       8                   3
+     /   \               /   \ 
+    5     5            2       2
    /       \         /  \     /  \
   9         9       5    6   6    5
   
@@ -278,9 +278,9 @@ post-order:
 
 **13.2 (2pt) Debunk (prove wrong) the following testing logic?**
 
-````
+
 "You can test a binary tree to be a binary search tree by simply checking whether the in-order traverse of that tree is a sorted array. For example, if the inorder traverse output is [2,5,6,7], this can be determined as a BST because this is a sorted array (each element is larger than the one before it)."
-````
+
 
 Hint: what would be the case in which the in-order traverse does not work properly but a test using the above logic can still pass?
 
