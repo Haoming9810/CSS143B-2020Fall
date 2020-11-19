@@ -166,13 +166,13 @@ To help you debugging, here's some code with some tests https://github.com/pdget
 For example, the following trees are all vertically symmetrical:
 
 ```bash
-    3						   1                 null
+    3		    1                 null
    / \            / \
   9   9        null null
   
-       8								   3
-     /   \ 						   /   \ 
-    5     5						 2       2
+       8				  3
+     /   \ 			/   \ 
+    5     5		   2       2
    /       \         /  \     /  \
   9         9       5    6   6    5
   
