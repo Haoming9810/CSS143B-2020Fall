@@ -217,7 +217,7 @@ And the left and right sub-trees are mirrors of each other as shown in the two t
 
 **11. (5pt) Finding similarities between algorithms can help us understand and remember them better.**
 
-**11.1 (3pt) What's the similarity between the recursive and iterative linked list reversal algorithms? We had a special topic lecture. Describe the idea of that similarity. **
+**11.1 (3pt) What's the similarity between the recursive and iterative linked list reversal algorithms? We had a special topic lecture. Describe the idea of that similarity.**
 
 ```
 
