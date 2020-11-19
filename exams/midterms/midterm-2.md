@@ -91,7 +91,7 @@ Integer fib(Integer n) {
 }
 ```
 
-For example, if n=5, fib(5) will return 5. If n=10, fib(10) will return 55. It's okay to print each number in a new line. Format doesn't matter.
+For example, if n=5, fib(5) will return 5. If n=10, fib(10) will return 55. 
 
 **8.2 (4pt) Write test cases for your fib function in 8.1.**
 
