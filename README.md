@@ -87,8 +87,8 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 |  11/16, 11/18 | 8 | Dictionary<br/>11/18 Midterm 2 | 15.5 |  |
 |  11/23, 11/25 | 9 | Guest lecture (Marvin: FPV drone programming) <br/> Final project review |  | final project |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis <br/> Final project review |  | homework 6 <br/> |
-|  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> Final exam review |  |  |
-|  12/14 - 12/16 | 12 | 12/16 Final exam |  |  |
+|  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> homework review |  |  |
+|  12/14 - 12/16 | 12 | 12/14 Final exam review <br/> 12/16 Final exam |  |  |
 
 ## Computer
 All students are expected to have unfettered access to a personal computer (Windows, Mac, Linux, etc.) or netbook with broadband-speed Internet access. Student access to University computing resources fulfills this requirement. All students are assumed to be proficient with an office productivity suite and email. All students must enable their Canvas Notifications for this course (Links to an external site.) to be at least as frequent as the defaults; if I post announcements, etc. via Canvas, you need to be able to receive them. All students must have a valid email account that they check on a daily basis.
