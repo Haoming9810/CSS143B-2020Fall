@@ -87,7 +87,7 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 |  11/16, 11/18 | 8 | Dictionary<br/>11/18 Midterm 2 | 15.5 |  |
 |  11/23, 11/25 | 9 | Guest lecture (Marvin: FPV drone programming) <br/> Final project review |  | final project |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis <br/> Final project review |  | homework 6 <br/> |
-|  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> homework review |  |  |
+|  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> Homework review |  |  |
 |  12/14 - 12/16 | 12 | 12/14 Final exam review <br/> 12/16 Final exam |  |  |
 
 ## Computer
