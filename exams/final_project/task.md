@@ -23,7 +23,7 @@ The idea and algorithm design of this project comes from [this post](http://www.
 
 ### The Website
 
-The code to run a website is way beyond this class, so the code is provided to you. It's written using [Spring Boot](https://spring.io/projects/spring-boot). It uses an in-memory database to store the documents and index. We'll review this in lecture. After the class, this project would also be a good starting point if you need to create a website of your own.
+The code to run a website is way beyond this class, so this part is provided to you. It's written using [Spring Boot](https://spring.io/projects/spring-boot). It uses an in-memory database to store the documents and index. We'll review this in lecture. After the class, this project would also be a good starting point if you need to create a website of your own.
 
 [Here](http://ec2-3-128-153-78.us-east-2.compute.amazonaws.com:8081/) is what the project website looks like when it's finished. Use this to see how searching should work.
 
