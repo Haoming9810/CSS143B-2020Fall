@@ -2,9 +2,7 @@
 
 In this project, we are going to build a mini search engine that facilitates fast phrase search. 
 
-Ready to take on google yet? Let's give it a try. 
-
-We'll call this "project Elgoog".
+Ready to take on google yet? Let's give it a try. We'll call this "project Elgoog". Humor Me.
 
 The idea and algorithm design of this project comes from [this post](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/). The original post was using python. Here we'll use Java.
 
