@@ -9,10 +9,6 @@
     - Assigned: 11/24/2020
     - Due: 12/6/2020 Sunday 11:59pm
 
-### Goal
-
-- Setup
-
 ### Problems To Solve
 
 [Task](task.md) (40pt)
