@@ -11,7 +11,7 @@
 
 ### Problems To Solve
 
-[Task](task.md) (40pt, as 40% for final exam)
+[Tasks](task.md) (40pt, as 40% for final exam)
 
 ### Code ###
 
