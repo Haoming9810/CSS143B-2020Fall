@@ -1,6 +1,6 @@
 <img src="images/robots.png"
      alt="robots"
-     width="65%" />
+     width="45%" />
 
 ## Page Rank
 
