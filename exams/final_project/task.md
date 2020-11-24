@@ -36,7 +36,7 @@ There are 3 services:
 
 The website is already set up for you. What's to be done is the indexer and searcher:
 
-- [Indexer](https://github.com/pdgetrf/CSS143B-2020Fall-final-project/blob/master/src/main/java/edu/uwb/css143b2020fall/service/Searcher.java): Process documents into a data structure named *index* that allows faster searches on the same data set. 
+- [Indexer](https://github.com/pdgetrf/CSS143B-2020Fall-final-project/blob/master/src/main/java/edu/uwb/css143b2020fall/service/IndexerImpl.java): Process documents into a data structure named *index* that allows faster searches on the same data set. 
 - [Searcher](https://github.com/pdgetrf/CSS143B-2020Fall-final-project/blob/master/src/main/java/edu/uwb/css143b2020fall/service/SearcherImpl.java): Search given phrases using the index.
 
 Indexer is to be done only once when a set of documents are loaded into the website (at startup or through the */reindex* service), while the searches are carried out against the same index. 
