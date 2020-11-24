@@ -1,6 +1,6 @@
 ## A (Mini) Search Engine (40pt)
 
-In this project, we are going to build a mini search engine that facilitates fast word and phrase search. 
+In this project, we are going to build a mini search engine that facilitates fast phrase search. 
 
 Ready to take on google yet? Let's give it a try. 
 
