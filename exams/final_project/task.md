@@ -49,7 +49,7 @@ Unit tests for indexer and searcher are provided. Upon finish, these tests will 
 
 #### End to end tests
 
-Start the webiste on your dev machine. Then go to browser and type "http://localhost:8081" in the address bar. This brings up the website's search page. Use this to verify your code works end-to-end altogether including indexing and searching. 
+Start the webiste on your dev machine. Then go to browser and type "http://localhost:8081" in the address bar. This brings up the website's search page. Use this to verify your indexing and searching work end-to-end altogether by making searches and checking results.
 
 ### The Design
 
