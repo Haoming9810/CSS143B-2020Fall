@@ -11,7 +11,7 @@ Given the following documents:
 
 Each document is a series of words. In our code, each document is represented by a String.
 
-search() returns the *document ids* that contain the given search phrase based on the indexes. 
+search() returns the *document ids* that contain the given search phrase based on the given index. The search interface is:
 
 ```java
 public interface Searcher {
@@ -38,7 +38,7 @@ This way, if "hello" is searched, we can quickly return in *O(1)* time that it a
 
 With this single layer of structure, it is still hard to search phrase composed of multiple words because words in a phrase matters in a search, and therefore the information of where each word appears in documents also need to be stored in the indexes. [This post](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/) has good explanation on how the index is designed. We will review the design in the lecture.
 
-The indexer signature is:
+The indexer interface is:
 
 ```java
 public interface Indexer {
