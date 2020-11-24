@@ -9,7 +9,6 @@ The idea and algorithm design of this project come from [this post](http://www.a
 ### The Requirements
 
 - The search engine Elgoog hosts a "database" of documents. Each "document" contains a series of english words
-- Elgoog serves search request in the form of a website
 - A search request is a phrase of a series of english words spearated by white spaces
 - For a search request, Elgoog returns the *ids* of all the documents that contain the search phrase in exact match (word & order)
 
