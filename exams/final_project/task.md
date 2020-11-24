@@ -63,14 +63,13 @@ Ready for taking on this work? The design of indexer and searcher is [here](desi
 Upon successfully finishing this project, your work will be graded based on the following criterias:
 
 -  (5pt) Pull request (PR) correctly created
-  - No new files added (such as .idea folder, .iml files)
-  - Having the right changes
-  - From your work branch to your master branch in your repo
+    - No new files added (such as .idea folder, .iml files)
+    - Having the right changes
+    - From your work branch to your master branch in your repo
 -  (5pt) Pull request has clear-written description including:
-  - What's the changes
-  - How it's verified on your side
-  - Any notes to reviewer
-
+    - What's the changes
+    - How it's verified on your side
+    - Any notes to the reviewers
 - (5pt) PR has auto-validation running
 - (15pt) All provided unit tests passed
 - (10pt) Website starts correctly and pass simple end-to-end search test
