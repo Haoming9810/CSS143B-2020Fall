@@ -72,4 +72,4 @@ Upon successfully finishing this project, your work will be graded based on the 
     - Any notes to the reviewers
 - (5pt) PR has auto-validation running
 - (15pt) All provided unit tests passed
-- (10pt) Website starts correctly and pass simple end-to-end search test
+- (10pt) Website runs correctly and passes end-to-end search tests
