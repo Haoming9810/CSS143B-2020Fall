@@ -42,7 +42,7 @@ The website is already set up for you. What's to be done is the indexer and sear
 - Indexer: Process documents into a data structure named *index* that allows faster searches on the same data set.
 - Searcher: Search given phrases using the index.
 
-Indexer is to be done only once when a set of documents are loaded into website (at startup or through the */reindex* service), while search is carried out repeated using the same index. 
+Indexer is to be done only once when a set of documents are loaded into the website (at startup or through the */reindex* service), while the searches are carried out against the same index. 
 
 ### The Tests
 
