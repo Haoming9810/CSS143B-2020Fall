@@ -51,7 +51,7 @@ The index is a Map. They key is each word in all the documents, the value is a l
 For the set of 7 documents
 
 ```
-                               "world world hello world",
+                                "world world hello world",
                                 "world world hallo",
                                 "world seattle hello abc world day",
                                 "abc hello world fun",
