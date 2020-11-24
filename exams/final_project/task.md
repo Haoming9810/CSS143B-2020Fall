@@ -70,3 +70,4 @@ Upon successfully finishing this project, your work will be graded based on the 
 - (5pt) PR has auto-validation running
 - (15pt) All provided unit tests passed
 - (10pt) Website runs correctly and passes end-to-end search tests
+- (10pt) Add an integration test in IntegrationTest with 1 document of at least 3 documents, and at least 5 search cases.
