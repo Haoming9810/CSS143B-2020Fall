@@ -27,7 +27,7 @@ The code to run a website is way beyond this class, so the code is provided to y
 
 [Here](http://ec2-3-128-153-78.us-east-2.compute.amazonaws.com:8081/) is what the project website looks like when it's finished. Use this to see how searching should work.
 
-The website works on port 8081. On your local machine, open it by typing *http://localhost:8081 in the browser.
+The website works on port 8081. On your local machine, open it by typing *http://localhost:8081 in a browser.
 
 There are 3 services:
 
