@@ -6,19 +6,19 @@ Ready to take on google yet? Let's give it a try.
 
 We'll call this "project Elgoog".
 
-The idea of this project comes from [this post](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/), and the algorithms we use are from here too.
+The idea and algorithm design of this project comes from [this post](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/). The original post was using python. Here we'll use Java.
 
 ### The Requirements
 
-- The search engine Elgoog hosts a "database" of documents. Each "document" contains a series of english words.
-- Elgoog serves search request in the form of a website.
-- A search request is a phrase of a series of english words spearated white spaces.
-- For a search request, Elgoog returns the *ids* of all the documents that contain the search phrase in exact match (word & order).
+- The search engine Elgoog hosts a "database" of documents. Each "document" contains a series of english words
+- Elgoog serves search request in the form of a website
+- A search request is a phrase of a series of english words spearated white spaces
+- For a search request, Elgoog returns the *ids* of all the documents that contain the search phrase in exact match (word & order)
 
 ### The Assumptions
 
-- Search is conducted based on English word. Words in documents are separated by white spaces.
-- For simplicty, document is written in the form of a sentence, and all words are lowercase.
+- Search is conducted based on English word. Words in documents are separated by white spaces
+- For simplicty, document is written in the form of a sentence, and all words are lowercase
 - No non-alphabetical character in any document
 
 ### The Website
@@ -29,7 +29,7 @@ The website works on port 8081. On your local machine, open it by typing *http:/
 
 There are 3 services:
 
-1. http://localhost:8081: The main search home page. */search* and */home* are redirected to the same home page.
+1. http://localhost:8081: The main search home page. */search* and */home* are redirected to the same home page
 2. http://localhost:8081/docs: Shows all the documents currently used
 3. http://localhost:8081/reindex: Replace the documents with a new set
 
@@ -72,5 +72,3 @@ Upon successfully finishing this project, your work will be graded based on the 
 - (5pt) PR has auto-validation running
 - (15pt) All provided unit tests passed
 - (10pt) Website starts correctly and pass simple end-to-end search test
-
-#### 
