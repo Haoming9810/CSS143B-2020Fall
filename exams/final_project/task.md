@@ -18,7 +18,7 @@ The idea and algorithm design of this project comes from [this post](http://www.
 ### The Assumptions
 
 - Search is conducted based on English word. Words in documents are separated by white spaces
-- For simplicty, document is written in the form of a sentence, and all words are lowercase
+- For simplicty, a document is represented by a String object, and all words are lowercase
 - No non-alphabetical character in any document
 
 ### The Website
