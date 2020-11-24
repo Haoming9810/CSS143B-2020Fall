@@ -15,7 +15,7 @@
 
 ### Code ###
 
-[Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-homework5).
+[Starter code](https://github.com/pdgetrf/CSS143B-2020Fall-final-project).
 
 All tests are provided to you. Upon finish, all tests should pass. DO NOT REMOVE OR CHANGE GIVEN TESTS.
 
@@ -24,7 +24,7 @@ Submission without using this provided code will receive 0 point.
 ### Work Instruction
 
 - Create your own account at https://github.com/
-- Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-homework5 to your own repo.
+- Fork (means "duplicate") the instructor repo https://github.com/pdgetrf/CSS143B-2020Fall-final-project to your own repo.
 - In the Action tab of the repo, click the green button to enable Action.
 - Open your own repo in Intellij using "Get From Version Control".
 - Create a new branch called "work" (you can pick your own name here), and switch to this new branch (automatically in Intellij).
