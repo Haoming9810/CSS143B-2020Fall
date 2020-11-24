@@ -85,7 +85,7 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 |  11/02, 11/04 | 6 | Special topic: A tale of two linkedlist reversals <br/>ADT: Binary Tree | 15.7 |  |
 |  11/09, 11/11 | 7 | More on Binary Trees, Searching (BFS and DFS)<br/>11/11 No class (Veterans Day) |  | [homework 5](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_5) |
 |  11/16, 11/18 | 8 | Dictionary<br/>11/18 Midterm 2 | 15.5 |  |
-|  11/23, 11/25 | 9 | Guest lecture (Marvin: FPV drone programming) <br/> Final project review |  | [final project](https://github.com/pdgetrf/CSS143B-2020Fall-final-project) |
+|  11/23, 11/25 | 9 | Guest lecture (Marvin: FPV drone programming) <br/> Final project review |  | [final project](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/exams/final_project) |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis <br/> Final project review |  | homework 6 <br/> |
 |  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> Homework review |  |  |
 |  12/14 - 12/16 | 12 | 12/14 Final exam review <br/> 12/16 Final exam |  |  |
