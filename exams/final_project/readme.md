@@ -1,5 +1,5 @@
-<img src="images/four_seasons.jpg"
-     alt="four seasons"
+<img src="images/robots.png"
+     alt="robots"
      width="65%" />
 
 ## Page Rank
