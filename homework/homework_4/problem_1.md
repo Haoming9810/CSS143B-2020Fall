@@ -66,3 +66,4 @@ Requirements:
 - Any loop such as "for", "while" is not allowed. Zero point if any loop is used. OK to add helper function.
 - Cannot use collection storage such as array, stack, queue, map. If you want to use something but not sure, please ask.
 - Must use recursion.
+- Cannot use the set() and get() function from the Stack class
