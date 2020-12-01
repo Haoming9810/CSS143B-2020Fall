@@ -70,4 +70,4 @@ Upon successfully finishing this project, your work will be graded based on the 
 - (5pt) PR has auto-validation running
 - (15pt) All provided unit tests passed
 - (10pt) Website runs correctly and passes end-to-end search tests
-- (10pt) Extra credits: Add a new integration test in IntegrationTest with at least 3 documents, and at least 5 search cases. This is a new test with new documents, not new additional documents to the existing test. And 5 search cases means 5 different search phrases.
+- (10pt) Extra credits: Add a new integration test in IntegrationTest with at least 3 documents, and at least 5 search cases. This is a new test with new documents, not new additional documents to the existing test. And 5 search cases means 5 different search phrases. And of course, this new test needs to pass to qualify for the extra credits.
