@@ -1,4 +1,4 @@
-## (20pt) Remove From ArrayDictionary
+## (40pt) Remove From ArrayDictionary
 
 The [*ArrayDictionary*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/main/java/Problem1/ArrayDictionary.java) class implements the [*Dictionary*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/main/java/Problem1/Dictionary.java) interface as a dictionary with chaining capability for key collision. 
 
