@@ -1,4 +1,4 @@
-## (30pt) Performance Test
+## (40pt) Performance Test
 
 In [our lecture](https://youtu.be/5Gpc3kicQgc?t=1467) we saw a performance comparision of performance when searching an identity using four different data structures. The code for that test can be found in the [*IdentitySearchTest*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/test/java/IdentitySearchTest.java) class. 
 
