@@ -16,7 +16,7 @@
 
 ### Problems To Solve
 
-There are Three*** problems to answer:
+There are ***Three*** problems to answer:
 
 - [Problem 0](problem_0.md) (10pt)
 - [Problem 1](problem_1.md) (40pt)
