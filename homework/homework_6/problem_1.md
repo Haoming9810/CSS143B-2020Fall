@@ -22,7 +22,7 @@ dictionary[4] = {(tony, 789)(alex, 123)}
 dictionary[5] = {(katie, 1122)}
 ```
 
-"tony" and "alex" both has the same hash key 4 because both are 4 character long, and therefore they are chained (much like in a single linked list) in *dictionary[4]*.
+"tony" and "alex" both have the same hash key 4 because both are 4 character long, and therefore they are chained (much like in a single linked list) in *dictionary[4]*.
 
 Write the code to implement the remove function.
 
