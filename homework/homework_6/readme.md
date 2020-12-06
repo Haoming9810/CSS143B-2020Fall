@@ -18,9 +18,9 @@
 
 There are ***Three*** problems to answer:
 
-- [Problem 0](problem_0.md) (10pt)
+- [Problem 0](problem_0.md) (20pt)
 - [Problem 1](problem_1.md) (40pt)
-- [Problem 2](problem_2.md) (30pt)
+- [Problem 2](problem_2.md) (40pt)
 
 ### Code ###
 
