@@ -45,8 +45,9 @@ For submission, send in a doc (word or pdf) containing both the graph and the an
 <br>
 <br>
 
+As you reach this point, you've finished all the materials of this quarter. It's been at a tough time and we made it through. Great job, and I hope the material was helpful and you had fun. Best luck to your further adventure! Code on!
+
+
 <img src="https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/images/overview.png"
      alt="course"
      width="35%" />
-     
-As you reach this point, you've finished all the materials of this quarter. It's been at a tough time and we made it through. Great job, and I hope the material was helpful and you had fun. Best luck to your further adventure! Code on!
