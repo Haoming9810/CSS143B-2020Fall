@@ -39,11 +39,7 @@ The codes are already provided. No real coding work required for this task (exce
 
 For submission, send in a doc (word or pdf) containing both the graph and the analysis text.  
 
-
-<hr>
-<br>
-<br>
-<br>
+## The End
 
 As you reach this point, you've finished all the materials of this quarter. It's been a challenging special time with all covid threats and the online-only lecture, and we made it through! Great job! I hope the material was helpful and you had some fun. Best luck to your further adventure! Code on!
 
