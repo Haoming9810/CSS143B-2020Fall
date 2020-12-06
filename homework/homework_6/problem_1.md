@@ -1,6 +1,6 @@
 ## (20pt) Remove From ArrayDictionary
 
-The *ArrayDictionary* class implements the *Dictionary* interface as a dictionary with chaining capability for key collision. 
+The [*ArrayDictionary*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/main/java/Problem1/ArrayDictionary.java) class implements the [*Dictionary*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/main/java/Problem1/Dictionary.java) interface as a dictionary with chaining capability for key collision. 
 
 The hash function of this class is:
 
@@ -11,7 +11,7 @@ The hash function of this class is:
     }
 ```
 
-As stated in the comment, this is not the most capabable solution for a hash function but it helps us test the knowledge of the hash key vs entry key. "Hash key" is the integer value (return value of the hash function) by passing the entry key through the hash function. If multiple entry keys has the same hash key, these entries will be "chained" under the same hash key. Here's an example:
+As stated in the comment, this is not the most capabable solution for a hash function but it helps us test the knowledge of the hash key vs entry key. "Hash key" is the integer value (return value of the hash function) by passing the entry key through the hash function. If multiple entry keys have the same hash key, these entries will be "chained" under the same hash key. Here's an example:
 
 ```
 dictionary[0] = null
