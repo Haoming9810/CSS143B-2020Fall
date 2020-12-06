@@ -32,7 +32,7 @@ In this test, the first element is removed from all 4 data structures and we'll 
 
 The first column is problem size, and the rest 4 columns are the running time corresponding to the 4 function calls as commented above. 
 
-The test codes are already provided. No coding needed for this task (except changing problem size in the loop). What's to be done is:
+The codes are already provided. No real coding work required for this task (except changing problem size in the loop). What's to be done is:
 
 - Change the problem size to go from 5000 to something large (up to 1550000 depending on how large your computer can run). Gather the result from the console and plot the result following the same format of the graph on page 16 of the slides [class10_Monday.pptx](https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/class10/class10_Monday.pptx)
 - Add an analysis of this result. Focus on comparing the running time between the four data structures. Also a good idea to compare this to the result from searching and explain the difference. 
