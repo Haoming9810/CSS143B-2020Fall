@@ -1,8 +1,8 @@
 ## (20pt) Performance Test
 
-In [our lecture](https://youtu.be/5Gpc3kicQgc?t=1467) we saw a performance comparision of performance when searching an identity using four different data structures. The code for that test can be found in the *IdentitySearchTest* class. 
+In [our lecture](https://youtu.be/5Gpc3kicQgc?t=1467) we saw a performance comparision of performance when searching an identity using four different data structures. The code for that test can be found in the [*IdentitySearchTest*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/test/java/IdentitySearchTest.java) class. 
 
-In this homework, let's add another test result similarly using *IdentityRemovalTest*:
+In this homework, let's add another test result similarly using the [*IdentityRemovalTest*](https://github.com/pdgetrf/CSS143B-2020Fall-homework6/blob/master/src/test/java/IdentityRemovalTest.java) class. The driver for the test is here:
 
 ```java
 public void runTestOfSize(int size) {
@@ -22,7 +22,7 @@ public void runTestOfSize(int size) {
     }
 ```
 
-In this test, we'll remove the first element from these 4 data structures and compare the time it takes at different input sizes. When this code is run, it print to the console the following:
+In this test, the first element is removed from all 4 data structures and we'll compare the time it takes at different input sizes. When this code runs, it prints to the console the following:
 
 ```
 5000	0.008142	0.024334	0.024799	0.004410	
@@ -32,9 +32,12 @@ In this test, we'll remove the first element from these 4 data structures and co
 
 The first column is problem size, and the rest 4 columns are the time corresponding to the 4 function calls as commented above. 
 
-The test codes are already provided. What is to be done is
+The test codes are already provided. No coding needed for this task (except changing problem size in the loop). What's to be done is:
 
-- Change the problem size to go from 5000 to something large (up to 1550000 depending on how large your computer can run). Gather the result from the console and plot the result following the same format of the graph on page 16 of the slides class10_Monday.pptx
+- Change the problem size to go from 5000 to something large (up to 1550000 depending on how large your computer can run). Gather the result from the console and plot the result following the same format of the graph on page 16 of the slides [class10_Monday.pptx](https://github.com/pdgetrf/CSS143B-2020Fall/blob/master/class10/class10_Monday.pptx)
 - Add an analysis of this result. Focus on comparing the running time between the four data structures. Also a good idea to compare this to the result from searching and explain the difference. 
 
 For submission, send in a doc (word or pdf) containing both the graph and the analysis text.  
+
+<hr>
+As you reach this point, you've finished all the materials of this quarter. It's been at a tough time and we made it through. Great job, and I hope the material was helpful and you had fun. Best luck to your further adventure! Code on!
