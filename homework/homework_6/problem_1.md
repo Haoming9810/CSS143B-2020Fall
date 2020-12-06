@@ -33,5 +33,6 @@ Write the code to implement the remove function.
     }
 ```
 
-This function removes a key value pair in the dictionary by it's key if it exists. Noop if otherwise. Tests are provided. Notice the key in the parameter is the entry key, not the hash key. All tests are provided and should pass upon correct completion. 
+This function removes a key value pair in the dictionary by it's key if it exists. No-op if otherwise. Tests are provided. Notice the key in the parameter is the entry key, not the hash key. All tests are provided and should pass upon correct completion. 
 
+As you reach this point, you've finished all the materials of this quarter. It's been at a tough time and we made it through. Great job, and I hope the material was helpful and you had fun. Best luck to your further adventure!
