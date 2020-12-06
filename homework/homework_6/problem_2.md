@@ -30,7 +30,7 @@ In this test, the first element is removed from all 4 data structures and we'll 
 15000	0.008610	0.002849	0.013852	0.003780	
 ```
 
-The first column is problem size, and the rest 4 columns are the time corresponding to the 4 function calls as commented above. 
+The first column is problem size, and the rest 4 columns are the running time corresponding to the 4 function calls as commented above. 
 
 The test codes are already provided. No coding needed for this task (except changing problem size in the loop). What's to be done is:
 
