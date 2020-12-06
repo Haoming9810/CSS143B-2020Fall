@@ -1,6 +1,6 @@
 
 
-## (10pt) Class Survey
+## (20pt) Class Survey
 
 You should have received a class survey from school (DM me if not) about this class. 
 
