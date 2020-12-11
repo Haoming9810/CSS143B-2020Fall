@@ -87,7 +87,7 @@ All grades will be listed as percentages in the Canvas LMS. The conversion table
 |  11/16, 11/18 | 8 | Dictionary<br/>11/18 Midterm 2 | 15.5 |  |
 |  11/23, 11/25 | 9 | Guest lecture (Marvin: FPV drone programming) <br/> Final project review |  | [final project](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/exams/final_project) |
 |  11/30, 12/02 | 10 | Sorting & complexity analysis <br/> Final project review |  | [homework 6](https://github.com/pdgetrf/CSS143B-2020Fall/tree/master/homework/homework_6) <br/> |
-|  12/07 - 12/09 | 11 | Special topic: Binary Tree in Database <br/> Homework & final exam review |  |  |
+|  12/07 - 12/09 | 11 | Guest lecture <br/> Homework & final exam review |  |  |
 |  12/14 - 12/16 | 12 | [12/16 Final exam](https://www.uwb.edu/academic-calendar/2020-2021-academic-calendar/final-exam-schedule-2020-2021) |  |  |
 
 ## Computer
